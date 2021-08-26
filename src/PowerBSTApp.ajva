@@ -1,0 +1,49 @@
+import java.util.Scanner;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.*;
+
+public class PowerBSTApp {
+
+    public static void main(String[] args) throws IOException {
+        //Get scanner
+        Scanner input = new Scanner(new File("cleaned_data.csv"));
+        input.nextLine();
+        input.useDelimiter(",");
+
+        //Set root node in tree
+        BinaryNode root = new BinaryNode();
+        BinarySearchTree tree = new BinarySearchTree(root);
+        tree.root.date = input.next();
+        tree.root.global = input.next();
+        input.next();
+        tree.root.voltage =input.next();
+        input.nextLine();
+
+        //Add data to tree
+        BinaryNode current = new BinaryNode();
+        while(input.hasNextLine()) {
+            current.date = input.next();
+            current.global = input.next();
+            input.next();
+            current.voltage =  input.next();
+            tree.insert(current.date, current.global, current.voltage);
+            input.nextLine();
+        }
+
+        try {
+            if (args.length == 1) {
+                tree.printDateTime(args[0]);
+                System.out.println("The number of operations used was: " + tree.count);
+            }else {
+                tree.printAllDateTimes();
+                System.out.println("The number of operations used was: " + tree.count);
+            }
+        }catch (ArrayIndexOutOfBoundsException e) {
+
+        }
+        input.close();
+        }
+}
