@@ -1,0 +1,1000 @@
+16/12/2006/17:24:00
+The global active number is 4.216 and the voltage is 234.840.
+16/12/2006/17:26:00
+The global active number is 5.374 and the voltage is 233.290.
+16/12/2006/17:25:00
+The global active number is 5.360 and the voltage is 233.630.
+16/12/2006/17:28:00
+The global active number is 3.666 and the voltage is 235.680.
+16/12/2006/17:30:00
+The global active number is 3.702 and the voltage is 235.090.
+16/12/2006/17:29:00
+The global active number is 3.520 and the voltage is 235.020.
+16/12/2006/17:27:00
+The global active number is 5.388 and the voltage is 233.740.
+16/12/2006/17:32:00
+The global active number is 3.668 and the voltage is 233.990.
+16/12/2006/17:34:00
+The global active number is 4.448 and the voltage is 232.860.
+16/12/2006/17:33:00
+The global active number is 3.662 and the voltage is 233.860.
+16/12/2006/17:36:00
+The global active number is 5.224 and the voltage is 232.990.
+16/12/2006/17:35:00
+The global active number is 5.412 and the voltage is 232.780.
+16/12/2006/17:31:00
+The global active number is 3.700 and the voltage is 235.220.
+16/12/2006/17:38:00
+The global active number is 4.054 and the voltage is 235.240.
+16/12/2006/17:39:00
+The global active number is 3.384 and the voltage is 237.140.
+16/12/2006/17:41:00
+The global active number is 3.430 and the voltage is 237.060.
+16/12/2006/17:43:00
+The global active number is 3.728 and the voltage is 235.840.
+16/12/2006/17:42:00
+The global active number is 3.266 and the voltage is 237.130.
+16/12/2006/17:40:00
+The global active number is 3.270 and the voltage is 236.730.
+16/12/2006/17:45:00
+The global active number is 7.706 and the voltage is 230.980.
+16/12/2006/17:48:00
+The global active number is 4.474 and the voltage is 234.960.
+16/12/2006/17:47:00
+The global active number is 5.174 and the voltage is 234.190.
+16/12/2006/17:46:00
+The global active number is 7.026 and the voltage is 232.210.
+16/12/2006/17:44:00
+The global active number is 5.894 and the voltage is 232.690.
+16/12/2006/17:51:00
+The global active number is 3.228 and the voltage is 235.600.
+16/12/2006/17:50:00
+The global active number is 3.236 and the voltage is 235.840.
+16/12/2006/17:54:00
+The global active number is 2.720 and the voltage is 235.060.
+16/12/2006/17:53:00
+The global active number is 3.178 and the voltage is 235.280.
+16/12/2006/17:52:00
+The global active number is 3.258 and the voltage is 235.490.
+16/12/2006/17:49:00
+The global active number is 3.248 and the voltage is 236.660.
+16/12/2006/17:37:00
+The global active number is 5.268 and the voltage is 232.910.
+16/12/2006/17:56:00
+The global active number is 4.342 and the voltage is 233.770.
+16/12/2006/17:58:00
+The global active number is 4.058 and the voltage is 234.680.
+16/12/2006/17:57:00
+The global active number is 4.512 and the voltage is 233.620.
+16/12/2006/18:00:00
+The global active number is 2.790 and the voltage is 237.520.
+16/12/2006/18:02:00
+The global active number is 2.772 and the voltage is 238.280.
+16/12/2006/18:01:00
+The global active number is 2.624 and the voltage is 238.200.
+16/12/2006/17:59:00
+The global active number is 2.472 and the voltage is 236.940.
+16/12/2006/18:04:00
+The global active number is 4.928 and the voltage is 235.010.
+16/12/2006/18:06:00
+The global active number is 6.752 and the voltage is 232.120.
+16/12/2006/18:05:00
+The global active number is 6.052 and the voltage is 232.930.
+16/12/2006/18:09:00
+The global active number is 4.464 and the voltage is 234.660.
+16/12/2006/18:08:00
+The global active number is 6.308 and the voltage is 232.250.
+16/12/2006/18:07:00
+The global active number is 6.474 and the voltage is 231.850.
+16/12/2006/18:11:00
+The global active number is 3.090 and the voltage is 237.070.
+16/12/2006/18:14:00
+The global active number is 2.388 and the voltage is 237.260.
+16/12/2006/18:13:00
+The global active number is 2.308 and the voltage is 237.430.
+16/12/2006/18:12:00
+The global active number is 3.730 and the voltage is 235.780.
+16/12/2006/18:10:00
+The global active number is 3.396 and the voltage is 236.200.
+16/12/2006/18:03:00
+The global active number is 3.740 and the voltage is 236.930.
+16/12/2006/17:55:00
+The global active number is 3.758 and the voltage is 234.170.
+16/12/2006/18:16:00
+The global active number is 4.524 and the voltage is 234.200.
+16/12/2006/18:17:00
+The global active number is 4.202 and the voltage is 234.310.
+16/12/2006/18:19:00
+The global active number is 2.852 and the voltage is 235.610.
+16/12/2006/18:20:00
+The global active number is 2.928 and the voltage is 235.250.
+16/12/2006/18:22:00
+The global active number is 2.934 and the voltage is 235.510.
+16/12/2006/18:24:00
+The global active number is 3.452 and the voltage is 235.200.
+16/12/2006/18:23:00
+The global active number is 2.926 and the voltage is 235.680.
+16/12/2006/18:21:00
+The global active number is 2.940 and the voltage is 236.040.
+16/12/2006/18:18:00
+The global active number is 4.472 and the voltage is 233.290.
+16/12/2006/18:26:00
+The global active number is 4.868 and the voltage is 233.840.
+16/12/2006/18:28:00
+The global active number is 3.176 and the voltage is 235.500.
+16/12/2006/18:27:00
+The global active number is 4.866 and the voltage is 233.790.
+16/12/2006/18:30:00
+The global active number is 2.930 and the voltage is 236.150.
+16/12/2006/18:32:00
+The global active number is 2.608 and the voltage is 235.410.
+16/12/2006/18:34:00
+The global active number is 3.538 and the voltage is 233.760.
+16/12/2006/18:33:00
+The global active number is 2.714 and the voltage is 234.820.
+16/12/2006/18:31:00
+The global active number is 2.912 and the voltage is 235.810.
+16/12/2006/18:29:00
+The global active number is 2.920 and the voltage is 235.840.
+16/12/2006/18:36:00
+The global active number is 4.536 and the voltage is 233.540.
+16/12/2006/18:38:00
+The global active number is 2.912 and the voltage is 234.020.
+16/12/2006/18:40:00
+The global active number is 2.264 and the voltage is 234.670.
+16/12/2006/18:39:00
+The global active number is 2.326 and the voltage is 234.760.
+16/12/2006/18:37:00
+The global active number is 4.408 and the voltage is 232.320.
+16/12/2006/18:43:00
+The global active number is 2.188 and the voltage is 235.800.
+16/12/2006/18:42:00
+The global active number is 2.258 and the voltage is 235.120.
+16/12/2006/18:41:00
+The global active number is 2.270 and the voltage is 235.270.
+16/12/2006/18:35:00
+The global active number is 6.072 and the voltage is 232.480.
+16/12/2006/18:25:00
+The global active number is 4.870 and the voltage is 233.740.
+16/12/2006/18:45:00
+The global active number is 4.200 and the voltage is 234.380.
+16/12/2006/18:47:00
+The global active number is 4.218 and the voltage is 233.980.
+16/12/2006/18:49:00
+The global active number is 2.540 and the voltage is 234.670.
+16/12/2006/18:48:00
+The global active number is 2.786 and the voltage is 234.990.
+16/12/2006/18:46:00
+The global active number is 4.204 and the voltage is 234.200.
+16/12/2006/18:51:00
+The global active number is 2.336 and the voltage is 233.510.
+16/12/2006/18:53:00
+The global active number is 2.448 and the voltage is 233.640.
+16/12/2006/18:52:00
+The global active number is 2.322 and the voltage is 233.440.
+16/12/2006/18:55:00
+The global active number is 4.230 and the voltage is 232.250.
+16/12/2006/18:54:00
+The global active number is 4.298 and the voltage is 232.390.
+16/12/2006/18:50:00
+The global active number is 2.496 and the voltage is 233.920.
+16/12/2006/18:58:00
+The global active number is 4.218 and the voltage is 232.090.
+16/12/2006/18:57:00
+The global active number is 3.924 and the voltage is 232.790.
+16/12/2006/19:00:00
+The global active number is 4.070 and the voltage is 231.990.
+16/12/2006/19:02:00
+The global active number is 3.458 and the voltage is 232.710.
+16/12/2006/19:01:00
+The global active number is 3.612 and the voltage is 232.360.
+16/12/2006/18:59:00
+The global active number is 4.224 and the voltage is 231.960.
+16/12/2006/19:05:00
+The global active number is 3.404 and the voltage is 233.080.
+16/12/2006/19:04:00
+The global active number is 3.366 and the voltage is 232.780.
+16/12/2006/19:07:00
+The global active number is 3.616 and the voltage is 234.440.
+16/12/2006/19:06:00
+The global active number is 3.382 and the voltage is 233.690.
+16/12/2006/19:03:00
+The global active number is 3.434 and the voltage is 232.010.
+16/12/2006/18:56:00
+The global active number is 4.230 and the voltage is 232.320.
+16/12/2006/19:09:00
+The global active number is 3.394 and the voltage is 235.120.
+16/12/2006/19:10:00
+The global active number is 3.400 and the voltage is 234.280.
+16/12/2006/19:12:00
+The global active number is 3.432 and the voltage is 234.690.
+16/12/2006/19:14:00
+The global active number is 3.392 and the voltage is 233.300.
+16/12/2006/19:13:00
+The global active number is 3.418 and the voltage is 234.260.
+16/12/2006/19:16:00
+The global active number is 3.394 and the voltage is 233.450.
+16/12/2006/19:15:00
+The global active number is 3.394 and the voltage is 233.430.
+16/12/2006/19:11:00
+The global active number is 3.414 and the voltage is 234.190.
+16/12/2006/19:18:00
+The global active number is 3.420 and the voltage is 234.430.
+16/12/2006/19:20:00
+The global active number is 3.422 and the voltage is 234.580.
+16/12/2006/19:22:00
+The global active number is 3.316 and the voltage is 234.290.
+16/12/2006/19:21:00
+The global active number is 3.332 and the voltage is 234.020.
+16/12/2006/19:19:00
+The global active number is 3.418 and the voltage is 234.340.
+16/12/2006/19:17:00
+The global active number is 3.406 and the voltage is 233.910.
+16/12/2006/19:08:00
+The global active number is 3.476 and the voltage is 234.600.
+16/12/2006/18:44:00
+The global active number is 2.978 and the voltage is 234.810.
+16/12/2006/18:15:00
+The global active number is 4.598 and the voltage is 234.250.
+16/12/2006/19:24:00
+The global active number is 3.262 and the voltage is 232.640.
+16/12/2006/19:27:00
+The global active number is 3.610 and the voltage is 234.980.
+16/12/2006/19:26:00
+The global active number is 3.620 and the voltage is 233.470.
+16/12/2006/19:25:00
+The global active number is 3.476 and the voltage is 232.960.
+16/12/2006/19:29:00
+The global active number is 3.614 and the voltage is 233.920.
+16/12/2006/19:31:00
+The global active number is 3.388 and the voltage is 233.720.
+16/12/2006/19:32:00
+The global active number is 3.372 and the voltage is 233.200.
+16/12/2006/19:30:00
+The global active number is 3.408 and the voltage is 233.940.
+16/12/2006/19:28:00
+The global active number is 3.646 and the voltage is 234.340.
+16/12/2006/19:34:00
+The global active number is 3.342 and the voltage is 232.290.
+16/12/2006/19:36:00
+The global active number is 3.276 and the voltage is 231.970.
+16/12/2006/19:37:00
+The global active number is 3.382 and the voltage is 232.420.
+16/12/2006/19:35:00
+The global active number is 3.284 and the voltage is 232.450.
+16/12/2006/19:33:00
+The global active number is 3.370 and the voltage is 233.100.
+16/12/2006/19:39:00
+The global active number is 3.396 and the voltage is 232.690.
+16/12/2006/19:40:00
+The global active number is 3.406 and the voltage is 233.200.
+16/12/2006/19:42:00
+The global active number is 3.392 and the voltage is 232.840.
+16/12/2006/19:41:00
+The global active number is 3.406 and the voltage is 233.260.
+16/12/2006/19:44:00
+The global active number is 3.368 and the voltage is 232.140.
+16/12/2006/19:45:00
+The global active number is 3.350 and the voltage is 231.570.
+16/12/2006/19:43:00
+The global active number is 3.378 and the voltage is 232.390.
+16/12/2006/19:47:00
+The global active number is 3.364 and the voltage is 232.220.
+16/12/2006/19:49:00
+The global active number is 3.404 and the voltage is 233.770.
+16/12/2006/19:50:00
+The global active number is 3.378 and the voltage is 232.820.
+16/12/2006/19:48:00
+The global active number is 3.380 and the voltage is 232.810.
+16/12/2006/19:46:00
+The global active number is 3.352 and the voltage is 231.660.
+16/12/2006/19:38:00
+The global active number is 3.418 and the voltage is 233.380.
+16/12/2006/19:52:00
+The global active number is 3.376 and the voltage is 232.840.
+16/12/2006/19:54:00
+The global active number is 3.214 and the voltage is 232.640.
+16/12/2006/19:53:00
+The global active number is 3.254 and the voltage is 232.750.
+16/12/2006/19:56:00
+The global active number is 3.202 and the voltage is 232.200.
+16/12/2006/19:58:00
+The global active number is 3.206 and the voltage is 232.400.
+16/12/2006/19:57:00
+The global active number is 3.212 and the voltage is 232.580.
+16/12/2006/19:55:00
+The global active number is 3.202 and the voltage is 232.200.
+16/12/2006/20:00:00
+The global active number is 3.206 and the voltage is 232.430.
+16/12/2006/20:02:00
+The global active number is 3.216 and the voltage is 232.800.
+16/12/2006/20:04:00
+The global active number is 3.194 and the voltage is 231.980.
+16/12/2006/20:03:00
+The global active number is 3.216 and the voltage is 232.790.
+16/12/2006/20:01:00
+The global active number is 3.222 and the voltage is 233.020.
+16/12/2006/19:59:00
+The global active number is 3.214 and the voltage is 232.660.
+16/12/2006/20:06:00
+The global active number is 3.282 and the voltage is 232.520.
+16/12/2006/20:08:00
+The global active number is 3.316 and the voltage is 233.780.
+16/12/2006/20:09:00
+The global active number is 3.370 and the voltage is 233.690.
+16/12/2006/20:07:00
+The global active number is 3.292 and the voltage is 232.870.
+16/12/2006/20:12:00
+The global active number is 3.400 and the voltage is 233.620.
+16/12/2006/20:11:00
+The global active number is 3.410 and the voltage is 233.930.
+16/12/2006/20:10:00
+The global active number is 3.420 and the voltage is 234.040.
+16/12/2006/20:14:00
+The global active number is 3.388 and the voltage is 233.260.
+16/12/2006/20:15:00
+The global active number is 3.370 and the voltage is 233.900.
+16/12/2006/20:17:00
+The global active number is 3.310 and the voltage is 232.830.
+16/12/2006/20:19:00
+The global active number is 3.314 and the voltage is 233.080.
+16/12/2006/20:18:00
+The global active number is 3.312 and the voltage is 233.000.
+16/12/2006/20:16:00
+The global active number is 3.332 and the voltage is 233.680.
+16/12/2006/20:13:00
+The global active number is 3.400 and the voltage is 233.640.
+16/12/2006/20:05:00
+The global active number is 3.278 and the voltage is 232.880.
+16/12/2006/19:51:00
+The global active number is 3.388 and the voltage is 233.220.
+16/12/2006/20:21:00
+The global active number is 3.302 and the voltage is 232.910.
+16/12/2006/20:24:00
+The global active number is 3.286 and the voltage is 232.310.
+16/12/2006/20:23:00
+The global active number is 3.290 and the voltage is 232.420.
+16/12/2006/20:22:00
+The global active number is 3.300 and the voltage is 232.870.
+16/12/2006/20:27:00
+The global active number is 3.258 and the voltage is 234.570.
+16/12/2006/20:26:00
+The global active number is 3.218 and the voltage is 233.050.
+16/12/2006/20:25:00
+The global active number is 3.230 and the voltage is 232.790.
+16/12/2006/20:29:00
+The global active number is 3.260 and the voltage is 234.600.
+16/12/2006/20:31:00
+The global active number is 3.264 and the voltage is 234.600.
+16/12/2006/20:30:00
+The global active number is 3.262 and the voltage is 234.540.
+16/12/2006/20:33:00
+The global active number is 3.228 and the voltage is 233.500.
+16/12/2006/20:34:00
+The global active number is 3.222 and the voltage is 233.270.
+16/12/2006/20:32:00
+The global active number is 3.238 and the voltage is 233.770.
+16/12/2006/20:28:00
+The global active number is 3.264 and the voltage is 234.790.
+16/12/2006/20:36:00
+The global active number is 3.206 and the voltage is 232.640.
+16/12/2006/20:39:00
+The global active number is 3.204 and the voltage is 232.500.
+16/12/2006/20:38:00
+The global active number is 3.196 and the voltage is 232.210.
+16/12/2006/20:37:00
+The global active number is 3.188 and the voltage is 231.950.
+16/12/2006/20:41:00
+The global active number is 3.254 and the voltage is 234.430.
+16/12/2006/20:43:00
+The global active number is 3.372 and the voltage is 235.050.
+16/12/2006/20:42:00
+The global active number is 3.376 and the voltage is 234.630.
+16/12/2006/20:45:00
+The global active number is 3.386 and the voltage is 235.770.
+16/12/2006/20:47:00
+The global active number is 3.426 and the voltage is 234.590.
+16/12/2006/20:46:00
+The global active number is 3.496 and the voltage is 236.760.
+16/12/2006/20:44:00
+The global active number is 3.366 and the voltage is 234.960.
+16/12/2006/20:40:00
+The global active number is 3.232 and the voltage is 233.630.
+16/12/2006/20:35:00
+The global active number is 3.226 and the voltage is 233.370.
+16/12/2006/20:49:00
+The global active number is 3.440 and the voltage is 235.140.
+16/12/2006/20:51:00
+The global active number is 3.450 and the voltage is 235.690.
+16/12/2006/20:52:00
+The global active number is 3.480 and the voltage is 236.860.
+16/12/2006/20:50:00
+The global active number is 3.454 and the voltage is 235.750.
+16/12/2006/20:54:00
+The global active number is 3.456 and the voltage is 236.050.
+16/12/2006/20:55:00
+The global active number is 1.832 and the voltage is 237.540.
+16/12/2006/20:53:00
+The global active number is 3.474 and the voltage is 236.720.
+16/12/2006/20:57:00
+The global active number is 3.354 and the voltage is 237.000.
+16/12/2006/20:58:00
+The global active number is 3.282 and the voltage is 235.550.
+16/12/2006/21:00:00
+The global active number is 3.314 and the voltage is 236.760.
+16/12/2006/21:02:00
+The global active number is 1.692 and the voltage is 238.720.
+16/12/2006/21:01:00
+The global active number is 3.306 and the voltage is 237.110.
+16/12/2006/20:59:00
+The global active number is 3.308 and the voltage is 236.510.
+16/12/2006/21:04:00
+The global active number is 3.354 and the voltage is 238.200.
+16/12/2006/21:06:00
+The global active number is 3.330 and the voltage is 237.360.
+16/12/2006/21:07:00
+The global active number is 2.740 and the voltage is 238.130.
+16/12/2006/21:05:00
+The global active number is 3.334 and the voltage is 237.460.
+16/12/2006/21:10:00
+The global active number is 3.340 and the voltage is 237.690.
+16/12/2006/21:09:00
+The global active number is 3.330 and the voltage is 237.260.
+16/12/2006/21:12:00
+The global active number is 3.044 and the voltage is 236.230.
+16/12/2006/21:11:00
+The global active number is 3.306 and the voltage is 236.440.
+16/12/2006/21:08:00
+The global active number is 2.188 and the voltage is 237.740.
+16/12/2006/21:03:00
+The global active number is 3.342 and the voltage is 237.660.
+16/12/2006/20:56:00
+The global active number is 2.044 and the voltage is 237.440.
+16/12/2006/20:48:00
+The global active number is 3.440 and the voltage is 235.130.
+16/12/2006/20:20:00
+The global active number is 3.302 and the voltage is 232.690.
+16/12/2006/19:23:00
+The global active number is 3.334 and the voltage is 234.360.
+16/12/2006/21:14:00
+The global active number is 3.376 and the voltage is 235.730.
+16/12/2006/21:16:00
+The global active number is 3.426 and the voltage is 237.110.
+16/12/2006/21:15:00
+The global active number is 3.414 and the voltage is 236.510.
+16/12/2006/21:18:00
+The global active number is 1.876 and the voltage is 238.630.
+16/12/2006/21:20:00
+The global active number is 3.414 and the voltage is 236.870.
+16/12/2006/21:21:00
+The global active number is 3.412 and the voltage is 236.940.
+16/12/2006/21:19:00
+The global active number is 3.442 and the voltage is 237.580.
+16/12/2006/21:17:00
+The global active number is 3.420 and the voltage is 237.060.
+16/12/2006/21:24:00
+The global active number is 3.410 and the voltage is 236.910.
+16/12/2006/21:23:00
+The global active number is 2.820 and the voltage is 237.420.
+16/12/2006/21:26:00
+The global active number is 2.878 and the voltage is 237.170.
+16/12/2006/21:25:00
+The global active number is 3.392 and the voltage is 236.240.
+16/12/2006/21:28:00
+The global active number is 3.494 and the voltage is 237.430.
+16/12/2006/21:30:00
+The global active number is 3.226 and the voltage is 237.200.
+16/12/2006/21:29:00
+The global active number is 3.420 and the voltage is 237.730.
+16/12/2006/21:27:00
+The global active number is 1.848 and the voltage is 238.590.
+16/12/2006/21:22:00
+The global active number is 2.542 and the voltage is 238.170.
+16/12/2006/21:32:00
+The global active number is 3.392 and the voltage is 236.600.
+16/12/2006/21:34:00
+The global active number is 3.378 and the voltage is 236.540.
+16/12/2006/21:33:00
+The global active number is 3.368 and the voltage is 236.120.
+16/12/2006/21:36:00
+The global active number is 3.212 and the voltage is 237.270.
+16/12/2006/21:38:00
+The global active number is 3.308 and the voltage is 236.490.
+16/12/2006/21:39:00
+The global active number is 3.302 and the voltage is 236.280.
+16/12/2006/21:37:00
+The global active number is 3.346 and the voltage is 237.060.
+16/12/2006/21:35:00
+The global active number is 1.872 and the voltage is 238.480.
+16/12/2006/21:31:00
+The global active number is 1.948 and the voltage is 238.410.
+16/12/2006/21:41:00
+The global active number is 2.652 and the voltage is 236.640.
+16/12/2006/21:43:00
+The global active number is 3.398 and the voltage is 236.830.
+16/12/2006/21:42:00
+The global active number is 3.392 and the voltage is 236.580.
+16/12/2006/21:45:00
+The global active number is 1.860 and the voltage is 239.690.
+16/12/2006/21:46:00
+The global active number is 3.250 and the voltage is 238.950.
+16/12/2006/21:44:00
+The global active number is 3.424 and the voltage is 237.750.
+16/12/2006/21:48:00
+The global active number is 3.484 and the voltage is 235.980.
+16/12/2006/21:50:00
+The global active number is 1.696 and the voltage is 238.190.
+16/12/2006/21:51:00
+The global active number is 3.494 and the voltage is 236.280.
+16/12/2006/21:49:00
+The global active number is 3.478 and the voltage is 235.850.
+16/12/2006/21:47:00
+The global active number is 3.502 and the voltage is 236.460.
+16/12/2006/21:54:00
+The global active number is 3.474 and the voltage is 236.280.
+16/12/2006/21:53:00
+The global active number is 3.480 and the voltage is 236.460.
+16/12/2006/21:56:00
+The global active number is 2.926 and the voltage is 237.090.
+16/12/2006/21:57:00
+The global active number is 3.472 and the voltage is 236.390.
+16/12/2006/21:55:00
+The global active number is 2.308 and the voltage is 237.330.
+16/12/2006/21:59:00
+The global active number is 3.454 and the voltage is 235.730.
+16/12/2006/22:01:00
+The global active number is 1.786 and the voltage is 237.680.
+16/12/2006/22:02:00
+The global active number is 3.182 and the voltage is 235.990.
+16/12/2006/22:00:00
+The global active number is 3.464 and the voltage is 236.030.
+16/12/2006/22:05:00
+The global active number is 3.362 and the voltage is 235.700.
+16/12/2006/22:04:00
+The global active number is 3.372 and the voltage is 236.030.
+16/12/2006/22:03:00
+The global active number is 3.378 and the voltage is 236.260.
+16/12/2006/21:58:00
+The global active number is 3.480 and the voltage is 236.750.
+16/12/2006/21:52:00
+The global active number is 3.482 and the voltage is 236.400.
+16/12/2006/21:40:00
+The global active number is 2.360 and the voltage is 236.890.
+16/12/2006/22:07:00
+The global active number is 1.614 and the voltage is 237.310.
+16/12/2006/22:08:00
+The global active number is 3.358 and the voltage is 236.140.
+16/12/2006/22:10:00
+The global active number is 3.392 and the voltage is 236.930.
+16/12/2006/22:12:00
+The global active number is 2.180 and the voltage is 238.020.
+16/12/2006/22:11:00
+The global active number is 2.810 and the voltage is 237.970.
+16/12/2006/22:09:00
+The global active number is 3.388 and the voltage is 236.610.
+16/12/2006/22:14:00
+The global active number is 3.326 and the voltage is 234.450.
+16/12/2006/22:15:00
+The global active number is 2.778 and the voltage is 235.310.
+16/12/2006/22:13:00
+The global active number is 3.370 and the voltage is 236.060.
+16/12/2006/22:17:00
+The global active number is 0.960 and the voltage is 238.680.
+16/12/2006/22:18:00
+The global active number is 1.606 and the voltage is 238.760.
+16/12/2006/22:20:00
+The global active number is 2.428 and the voltage is 238.870.
+16/12/2006/22:19:00
+The global active number is 2.350 and the voltage is 238.590.
+16/12/2006/22:22:00
+The global active number is 0.780 and the voltage is 239.930.
+16/12/2006/22:24:00
+The global active number is 2.412 and the voltage is 238.460.
+16/12/2006/22:26:00
+The global active number is 1.530 and the voltage is 240.720.
+16/12/2006/22:25:00
+The global active number is 2.428 and the voltage is 239.680.
+16/12/2006/22:23:00
+The global active number is 2.426 and the voltage is 239.050.
+16/12/2006/22:21:00
+The global active number is 2.078 and the voltage is 238.970.
+16/12/2006/22:16:00
+The global active number is 2.358 and the voltage is 237.100.
+16/12/2006/22:28:00
+The global active number is 2.424 and the voltage is 239.710.
+16/12/2006/22:29:00
+The global active number is 2.428 and the voltage is 239.890.
+16/12/2006/22:31:00
+The global active number is 0.376 and the voltage is 241.640.
+16/12/2006/22:32:00
+The global active number is 2.202 and the voltage is 240.070.
+16/12/2006/22:30:00
+The global active number is 2.388 and the voltage is 239.480.
+16/12/2006/22:34:00
+The global active number is 2.346 and the voltage is 240.050.
+16/12/2006/22:35:00
+The global active number is 1.916 and the voltage is 239.750.
+16/12/2006/22:37:00
+The global active number is 2.334 and the voltage is 239.200.
+16/12/2006/22:39:00
+The global active number is 2.306 and the voltage is 238.390.
+16/12/2006/22:38:00
+The global active number is 2.320 and the voltage is 238.840.
+16/12/2006/22:36:00
+The global active number is 0.384 and the voltage is 240.580.
+16/12/2006/22:41:00
+The global active number is 0.436 and the voltage is 241.060.
+16/12/2006/22:42:00
+The global active number is 1.584 and the voltage is 240.890.
+16/12/2006/22:44:00
+The global active number is 2.326 and the voltage is 239.270.
+16/12/2006/22:45:00
+The global active number is 2.334 and the voltage is 239.570.
+16/12/2006/22:43:00
+The global active number is 2.328 and the voltage is 239.460.
+16/12/2006/22:40:00
+The global active number is 2.306 and the voltage is 238.390.
+16/12/2006/22:33:00
+The global active number is 2.430 and the voltage is 239.770.
+16/12/2006/22:27:00
+The global active number is 1.388 and the voltage is 240.870.
+16/12/2006/22:47:00
+The global active number is 0.284 and the voltage is 242.040.
+16/12/2006/22:50:00
+The global active number is 2.414 and the voltage is 240.020.
+16/12/2006/22:49:00
+The global active number is 2.392 and the voltage is 239.910.
+16/12/2006/22:48:00
+The global active number is 2.342 and the voltage is 239.890.
+16/12/2006/22:52:00
+The global active number is 0.754 and the voltage is 241.270.
+16/12/2006/22:53:00
+The global active number is 1.420 and the voltage is 238.640.
+16/12/2006/22:51:00
+The global active number is 2.414 and the voltage is 239.970.
+16/12/2006/22:55:00
+The global active number is 2.474 and the voltage is 238.050.
+16/12/2006/22:57:00
+The global active number is 1.810 and the voltage is 240.280.
+16/12/2006/22:58:00
+The global active number is 0.674 and the voltage is 241.360.
+16/12/2006/22:56:00
+The global active number is 2.488 and the voltage is 239.030.
+16/12/2006/22:54:00
+The global active number is 2.468 and the voltage is 237.470.
+16/12/2006/23:01:00
+The global active number is 2.412 and the voltage is 239.130.
+16/12/2006/23:00:00
+The global active number is 2.410 and the voltage is 238.900.
+16/12/2006/23:03:00
+The global active number is 0.370 and the voltage is 241.580.
+16/12/2006/23:05:00
+The global active number is 2.404 and the voltage is 238.730.
+16/12/2006/23:04:00
+The global active number is 2.104 and the voltage is 240.110.
+16/12/2006/23:02:00
+The global active number is 2.206 and the voltage is 239.370.
+16/12/2006/23:08:00
+The global active number is 1.262 and the voltage is 240.960.
+16/12/2006/23:07:00
+The global active number is 2.342 and the voltage is 239.740.
+16/12/2006/23:10:00
+The global active number is 2.340 and the voltage is 240.050.
+16/12/2006/23:09:00
+The global active number is 0.852 and the voltage is 241.640.
+16/12/2006/23:06:00
+The global active number is 2.418 and the voltage is 239.520.
+16/12/2006/23:12:00
+The global active number is 2.334 and the voltage is 239.990.
+16/12/2006/23:15:00
+The global active number is 0.386 and the voltage is 242.390.
+16/12/2006/23:14:00
+The global active number is 1.038 and the voltage is 241.170.
+16/12/2006/23:13:00
+The global active number is 2.330 and the voltage is 239.740.
+16/12/2006/23:17:00
+The global active number is 2.346 and the voltage is 240.500.
+16/12/2006/23:19:00
+The global active number is 1.834 and the voltage is 240.970.
+16/12/2006/23:18:00
+The global active number is 2.346 and the voltage is 240.550.
+16/12/2006/23:16:00
+The global active number is 2.350 and the voltage is 240.410.
+16/12/2006/23:11:00
+The global active number is 2.336 and the voltage is 240.070.
+16/12/2006/22:59:00
+The global active number is 2.444 and the voltage is 239.420.
+16/12/2006/22:46:00
+The global active number is 1.846 and the voltage is 239.990.
+16/12/2006/22:06:00
+The global active number is 3.112 and the voltage is 236.080.
+16/12/2006/23:21:00
+The global active number is 2.342 and the voltage is 240.210.
+16/12/2006/23:23:00
+The global active number is 1.666 and the voltage is 240.650.
+16/12/2006/23:22:00
+The global active number is 2.334 and the voltage is 239.980.
+16/12/2006/23:26:00
+The global active number is 2.398 and the voltage is 240.700.
+16/12/2006/23:25:00
+The global active number is 2.350 and the voltage is 240.700.
+16/12/2006/23:24:00
+The global active number is 1.198 and the voltage is 241.680.
+16/12/2006/23:29:00
+The global active number is 2.434 and the voltage is 240.130.
+16/12/2006/23:28:00
+The global active number is 0.406 and the voltage is 241.710.
+16/12/2006/23:31:00
+The global active number is 2.518 and the voltage is 240.530.
+16/12/2006/23:33:00
+The global active number is 1.498 and the voltage is 241.020.
+16/12/2006/23:32:00
+The global active number is 1.516 and the voltage is 241.360.
+16/12/2006/23:30:00
+The global active number is 2.502 and the voltage is 240.240.
+16/12/2006/23:35:00
+The global active number is 2.504 and the voltage is 240.090.
+16/12/2006/23:37:00
+The global active number is 0.814 and the voltage is 242.160.
+16/12/2006/23:36:00
+The global active number is 2.492 and the voltage is 239.490.
+16/12/2006/23:39:00
+The global active number is 2.530 and the voltage is 241.740.
+16/12/2006/23:41:00
+The global active number is 0.384 and the voltage is 243.730.
+16/12/2006/23:40:00
+The global active number is 2.378 and the voltage is 241.180.
+16/12/2006/23:38:00
+The global active number is 2.304 and the voltage is 240.950.
+16/12/2006/23:34:00
+The global active number is 2.508 and the voltage is 240.060.
+16/12/2006/23:27:00
+The global active number is 2.444 and the voltage is 240.110.
+16/12/2006/23:43:00
+The global active number is 2.358 and the voltage is 241.130.
+16/12/2006/23:44:00
+The global active number is 2.352 and the voltage is 240.960.
+16/12/2006/23:47:00
+The global active number is 2.540 and the voltage is 241.230.
+16/12/2006/23:46:00
+The global active number is 2.654 and the voltage is 240.740.
+16/12/2006/23:45:00
+The global active number is 0.416 and the voltage is 242.940.
+16/12/2006/23:49:00
+The global active number is 1.206 and the voltage is 241.830.
+16/12/2006/23:50:00
+The global active number is 3.844 and the voltage is 238.710.
+16/12/2006/23:52:00
+The global active number is 3.458 and the voltage is 238.890.
+16/12/2006/23:53:00
+The global active number is 1.988 and the voltage is 240.260.
+16/12/2006/23:55:00
+The global active number is 1.290 and the voltage is 240.690.
+16/12/2006/23:54:00
+The global active number is 0.596 and the voltage is 240.880.
+16/12/2006/23:51:00
+The global active number is 4.122 and the voltage is 237.990.
+16/12/2006/23:48:00
+The global active number is 2.526 and the voltage is 241.790.
+16/12/2006/23:42:00
+The global active number is 2.370 and the voltage is 241.480.
+16/12/2006/23:57:00
+The global active number is 2.734 and the voltage is 239.810.
+16/12/2006/23:59:00
+The global active number is 2.586 and the voltage is 241.630.
+16/12/2006/23:58:00
+The global active number is 2.764 and the voltage is 241.270.
+17/12/2006/00:01:00
+The global active number is 1.520 and the voltage is 242.200.
+17/12/2006/00:02:00
+The global active number is 3.038 and the voltage is 240.140.
+17/12/2006/00:00:00
+The global active number is 1.044 and the voltage is 242.730.
+17/12/2006/00:04:00
+The global active number is 2.846 and the voltage is 240.390.
+17/12/2006/00:06:00
+The global active number is 2.858 and the voltage is 241.140.
+17/12/2006/00:05:00
+The global active number is 2.848 and the voltage is 240.590.
+17/12/2006/00:08:00
+The global active number is 0.658 and the voltage is 243.750.
+17/12/2006/00:10:00
+The global active number is 2.608 and the voltage is 239.450.
+17/12/2006/00:09:00
+The global active number is 0.838 and the voltage is 242.090.
+17/12/2006/00:12:00
+The global active number is 2.560 and the voltage is 238.710.
+17/12/2006/00:14:00
+The global active number is 2.472 and the voltage is 237.550.
+17/12/2006/00:13:00
+The global active number is 2.526 and the voltage is 236.950.
+17/12/2006/00:11:00
+The global active number is 2.598 and the voltage is 239.440.
+17/12/2006/00:07:00
+The global active number is 2.472 and the voltage is 241.620.
+17/12/2006/00:03:00
+The global active number is 2.974 and the voltage is 239.970.
+17/12/2006/00:16:00
+The global active number is 0.422 and the voltage is 239.790.
+17/12/2006/00:18:00
+The global active number is 2.436 and the voltage is 238.510.
+17/12/2006/00:17:00
+The global active number is 0.790 and the voltage is 239.470.
+17/12/2006/00:20:00
+The global active number is 2.338 and the voltage is 238.370.
+17/12/2006/00:19:00
+The global active number is 2.396 and the voltage is 239.030.
+17/12/2006/00:22:00
+The global active number is 0.276 and the voltage is 240.560.
+17/12/2006/00:25:00
+The global active number is 2.344 and the voltage is 239.990.
+17/12/2006/00:24:00
+The global active number is 2.332 and the voltage is 239.110.
+17/12/2006/00:23:00
+The global active number is 0.712 and the voltage is 239.840.
+17/12/2006/00:28:00
+The global active number is 2.368 and the voltage is 241.400.
+17/12/2006/00:27:00
+The global active number is 2.332 and the voltage is 239.450.
+17/12/2006/00:26:00
+The global active number is 2.354 and the voltage is 240.640.
+17/12/2006/00:21:00
+The global active number is 2.304 and the voltage is 238.380.
+17/12/2006/00:15:00
+The global active number is 1.658 and the voltage is 238.480.
+16/12/2006/23:56:00
+The global active number is 2.730 and the voltage is 239.430.
+17/12/2006/00:30:00
+The global active number is 0.286 and the voltage is 244.030.
+17/12/2006/00:33:00
+The global active number is 2.374 and the voltage is 241.700.
+17/12/2006/00:32:00
+The global active number is 2.376 and the voltage is 241.860.
+17/12/2006/00:31:00
+The global active number is 1.952 and the voltage is 242.070.
+17/12/2006/00:35:00
+The global active number is 1.004 and the voltage is 242.000.
+17/12/2006/00:37:00
+The global active number is 1.458 and the voltage is 242.300.
+17/12/2006/00:36:00
+The global active number is 0.388 and the voltage is 242.580.
+17/12/2006/00:34:00
+The global active number is 2.406 and the voltage is 240.000.
+17/12/2006/00:39:00
+The global active number is 2.454 and the voltage is 240.760.
+17/12/2006/00:41:00
+The global active number is 2.028 and the voltage is 241.880.
+17/12/2006/00:43:00
+The global active number is 0.902 and the voltage is 242.620.
+17/12/2006/00:42:00
+The global active number is 0.382 and the voltage is 243.650.
+17/12/2006/00:40:00
+The global active number is 2.468 and the voltage is 241.520.
+17/12/2006/00:45:00
+The global active number is 2.456 and the voltage is 241.180.
+17/12/2006/00:47:00
+The global active number is 2.448 and the voltage is 240.780.
+17/12/2006/00:46:00
+The global active number is 2.450 and the voltage is 240.820.
+17/12/2006/00:44:00
+The global active number is 2.466 and the voltage is 241.430.
+17/12/2006/00:38:00
+The global active number is 2.480 and the voltage is 241.860.
+17/12/2006/00:49:00
+The global active number is 0.286 and the voltage is 243.840.
+17/12/2006/00:51:00
+The global active number is 2.456 and the voltage is 241.980.
+17/12/2006/00:52:00
+The global active number is 2.456 and the voltage is 242.010.
+17/12/2006/00:50:00
+The global active number is 1.376 and the voltage is 243.110.
+17/12/2006/00:54:00
+The global active number is 2.122 and the voltage is 240.910.
+17/12/2006/00:56:00
+The global active number is 0.952 and the voltage is 241.500.
+17/12/2006/00:55:00
+The global active number is 0.356 and the voltage is 242.130.
+17/12/2006/00:53:00
+The global active number is 2.444 and the voltage is 241.380.
+17/12/2006/00:58:00
+The global active number is 2.420 and the voltage is 240.350.
+17/12/2006/01:00:00
+The global active number is 1.008 and the voltage is 242.350.
+17/12/2006/00:59:00
+The global active number is 2.412 and the voltage is 240.650.
+17/12/2006/01:02:00
+The global active number is 2.676 and the voltage is 240.690.
+17/12/2006/01:03:00
+The global active number is 3.766 and the voltage is 239.130.
+17/12/2006/01:01:00
+The global active number is 0.430 and the voltage is 243.400.
+17/12/2006/00:57:00
+The global active number is 2.426 and the voltage is 240.450.
+17/12/2006/00:48:00
+The global active number is 0.930 and the voltage is 242.940.
+17/12/2006/01:05:00
+The global active number is 5.282 and the voltage is 237.380.
+17/12/2006/01:07:00
+The global active number is 3.250 and the voltage is 240.950.
+17/12/2006/01:08:00
+The global active number is 4.618 and the voltage is 239.610.
+17/12/2006/01:06:00
+The global active number is 2.362 and the voltage is 241.350.
+17/12/2006/01:10:00
+The global active number is 4.860 and the voltage is 239.650.
+17/12/2006/01:11:00
+The global active number is 3.738 and the voltage is 240.390.
+17/12/2006/01:13:00
+The global active number is 5.254 and the voltage is 238.150.
+17/12/2006/01:12:00
+The global active number is 3.426 and the voltage is 240.310.
+17/12/2006/01:15:00
+The global active number is 5.216 and the voltage is 237.440.
+17/12/2006/01:17:00
+The global active number is 2.822 and the voltage is 239.550.
+17/12/2006/01:16:00
+The global active number is 3.858 and the voltage is 238.520.
+17/12/2006/01:14:00
+The global active number is 5.246 and the voltage is 237.910.
+17/12/2006/01:09:00
+The global active number is 5.242 and the voltage is 239.490.
+17/12/2006/01:19:00
+The global active number is 4.636 and the voltage is 237.370.
+17/12/2006/01:21:00
+The global active number is 4.652 and the voltage is 237.920.
+17/12/2006/01:20:00
+The global active number is 4.634 and the voltage is 237.170.
+17/12/2006/01:24:00
+The global active number is 3.478 and the voltage is 239.840.
+17/12/2006/01:23:00
+The global active number is 1.756 and the voltage is 241.180.
+17/12/2006/01:22:00
+The global active number is 3.130 and the voltage is 239.820.
+17/12/2006/01:26:00
+The global active number is 3.552 and the voltage is 240.290.
+17/12/2006/01:29:00
+The global active number is 2.080 and the voltage is 241.610.
+17/12/2006/01:28:00
+The global active number is 2.440 and the voltage is 240.800.
+17/12/2006/01:27:00
+The global active number is 3.940 and the voltage is 239.190.
+17/12/2006/01:32:00
+The global active number is 4.460 and the voltage is 240.080.
+17/12/2006/01:31:00
+The global active number is 4.432 and the voltage is 239.350.
+17/12/2006/01:30:00
+The global active number is 3.652 and the voltage is 240.110.
+17/12/2006/01:25:00
+The global active number is 4.500 and the voltage is 239.040.
+17/12/2006/01:35:00
+The global active number is 3.954 and the voltage is 239.840.
+17/12/2006/01:34:00
+The global active number is 2.358 and the voltage is 241.540.
+17/12/2006/01:37:00
+The global active number is 3.944 and the voltage is 239.790.
+17/12/2006/01:39:00
+The global active number is 1.670 and the voltage is 242.210.
+17/12/2006/01:38:00
+The global active number is 3.680 and the voltage is 239.550.
+17/12/2006/01:36:00
+The global active number is 3.746 and the voltage is 240.360.
+17/12/2006/01:41:00
+The global active number is 4.500 and the voltage is 240.420.
+17/12/2006/01:43:00
+The global active number is 2.664 and the voltage is 243.310.
+17/12/2006/01:42:00
+The global active number is 3.800 and the voltage is 241.780.
+17/12/2006/01:40:00
+The global active number is 3.214 and the voltage is 241.920.
+17/12/2006/01:33:00
+The global active number is 2.186 and the voltage is 242.070.
+17/12/2006/01:18:00
+The global active number is 3.840 and the voltage is 238.270.
+17/12/2006/01:04:00
+The global active number is 4.582 and the voltage is 238.080.
+17/12/2006/00:29:00
+The global active number is 0.612 and the voltage is 243.680.
+16/12/2006/23:20:00
+The global active number is 1.222 and the voltage is 241.580.
+16/12/2006/21:13:00
+The global active number is 1.766 and the voltage is 237.700.

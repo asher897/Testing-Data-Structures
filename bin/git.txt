@@ -1,0 +1,65 @@
+commit 8d1e42eb8f1d8e0858d149b7cbe183228fd25910
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Thu Mar 21 15:03:24 2019 +0200
+
+    Replica of the DataExtraction.py but used for 500.
+
+commit 7eb11b2c47d0ff897b4dfd600b2282d57b2b32ec
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Thu Mar 21 15:02:27 2019 +0200
+
+    Replica of the TestTrees.py but used for just 500.
+
+commit 00a62779d0e001ccb91f9afd85645651fefefc49
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Wed Mar 20 17:12:12 2019 +0200
+
+    The program reads the two .txt files created by DataExtraction.py and gets the find counts. Further it takes the two .txt files for insert counts (created by the PowerAVLApp and PowerBSTApp) and fins the best, worst and average case for each subset (1 - 500).
+
+commit 2afb0337a62217681c414eb2daa4dbdd37b83116
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Wed Mar 20 17:10:00 2019 +0200
+
+    Had to split up the app TestTrees.py to folow dynamic programming rules, definitely helped with convenience. This app now runs each app 500 times (once per dat/time string) and appends the output to a .txt file each.
+
+commit 3bf18980829f2ddf3b10a4c38f17de1a6cefb28c
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 13:30:15 2019 +0200
+
+    Used the TestApps.py program developed in the previous assignment as a template. Added in methods to get all the different counts (find count, insert count and total count of find and insert) as opposed to just one.
+
+commit 7bd199a84b7ad5f865da2ef62e73c0168cffe96a
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 13:08:45 2019 +0200
+
+    Created the PowerAVLApp using the POwerBSTApp as a template. Added in the method to read from a .txt file if passed in instead of a typical date/time string
+
+commit 5afec08e3a05d7b1cfb5273691a24553d8a25422
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 13:07:43 2019 +0200
+
+    Used the PoerBSTApp from the previous assignment
+
+commit b5160d06955248e2a1803049fd4f3264facb17f6
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 13:06:22 2019 +0200
+
+    Touched up the methods with assitance from the slides provided in class. Was not working as it should have
+
+commit f3479901d109b61b3c138204d413ba4b84328d2f
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 12:05:45 2019 +0200
+
+    Used the same BinaryNode class from the previous assignment
+
+commit 481705c9e1424485d7242093dcb5a36148c73551
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 12:04:30 2019 +0200
+
+    Used the BinarySearchTree from Assignment 1. Added in a new instance variable (insertCounts) to count the operatio counts for the insert method.
+
+commit 798d3a6bfc94150d6398418bb4de5cc5cd951bdf
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 12:01:44 2019 +0200
+
+    Extdned the AVLTree from the Binary Search Tree used in the previous assignment. Added a new insert method to comply with the specific balance proerties of an AVLTree.

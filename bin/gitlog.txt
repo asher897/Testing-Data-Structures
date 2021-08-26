@@ -1,0 +1,25 @@
+Git Log: 
+
+First 10 Lines: 
+commit 8d1e42eb8f1d8e0858d149b7cbe183228fd25910
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Thu Mar 21 15:03:24 2019 +0200
+
+    Replica of the DataExtraction.py but used for 500.
+
+commit 7eb11b2c47d0ff897b4dfd600b2282d57b2b32ec
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Thu Mar 21 15:02:27 2019 +0200
+
+
+Last 10 Lines: 
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 12:04:30 2019 +0200
+
+    Used the BinarySearchTree from Assignment 1. Added in a new instance variable (insertCounts) to count the operatio counts for the insert method.
+
+commit 798d3a6bfc94150d6398418bb4de5cc5cd951bdf
+Author: Aaron Sher <shraar001@myuct.ac.za>
+Date:   Sat Mar 16 12:01:44 2019 +0200
+
+    Extdned the AVLTree from the Binary Search Tree used in the previous assignment. Added a new insert method to comply with the specific balance proerties of an AVLTree.

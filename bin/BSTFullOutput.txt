@@ -1,0 +1,42 @@
+Output of printAllDateTimes with PowerBSTApp
+First 10 Lines: 
+16/12/2006/17:26:00
+The global active number is 5.374 and the voltage is 233.290.
+16/12/2006/17:25:00
+The global active number is 5.360 and the voltage is 233.630.
+16/12/2006/17:29:00
+The global active number is 3.520 and the voltage is 235.020.
+16/12/2006/17:30:00
+The global active number is 3.702 and the voltage is 235.090.
+16/12/2006/17:28:00
+The global active number is 3.666 and the voltage is 235.680.
+Last 10 Lines: 
+The global active number is 0.930 and the voltage is 242.940.
+17/12/2006/00:32:00
+The global active number is 2.376 and the voltage is 241.860.
+17/12/2006/00:29:00
+The global active number is 0.612 and the voltage is 243.680.
+16/12/2006/23:20:00
+The global active number is 1.222 and the voltage is 241.580.
+16/12/2006/19:51:00
+The global active number is 3.388 and the voltage is 233.220.
+The number of operations used was: 0
+
+Test with 3 random date/time strings: 
+1. 16/12/2006/18:12:00
+The global active number is 3.730 and the voltage is 235.780.
+The operation count was 9113. The find Operation count was: 21. And the insert operation count was: 9092
+
+2. 16/12/2006/20:47:00
+The global active number is 3.426 and the voltage is 234.590.
+The operation count was 9107. The find Operation count was: 15. And the insert operation count was: 9092
+
+3. 17/12/2006/01:30:00
+The global active number is 3.652 and the voltage is 240.110.
+The operation count was 9111. The find Operation count was: 19. And the insert operation count was: 9092
+
+Test With Incorrect Date/Time String
+18/12/2006/01:30:00
+Date/Time not found
+The operation count was 9112. The find Operation count was 20 and the insert operation count was 9092
+The operation count was 9112. The find Operation count was: 20. And the insert operation count was: 9092

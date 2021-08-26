@@ -1,0 +1,1001 @@
+
+The global active number is 4.216 and the voltage is 234.840.
+The operation count was 249501. The find Operation count was: 1. And the insert operation count was: 249500
+The global active number is 5.360 and the voltage is 233.630.
+The operation count was 249503. The find Operation count was: 3. And the insert operation count was: 249500
+The global active number is 5.374 and the voltage is 233.290.
+The operation count was 249505. The find Operation count was: 5. And the insert operation count was: 249500
+The global active number is 5.388 and the voltage is 233.740.
+The operation count was 249507. The find Operation count was: 7. And the insert operation count was: 249500
+The global active number is 3.666 and the voltage is 235.680.
+The operation count was 249509. The find Operation count was: 9. And the insert operation count was: 249500
+The global active number is 3.520 and the voltage is 235.020.
+The operation count was 249511. The find Operation count was: 11. And the insert operation count was: 249500
+The global active number is 3.702 and the voltage is 235.090.
+The operation count was 249513. The find Operation count was: 13. And the insert operation count was: 249500
+The global active number is 3.700 and the voltage is 235.220.
+The operation count was 249515. The find Operation count was: 15. And the insert operation count was: 249500
+The global active number is 3.668 and the voltage is 233.990.
+The operation count was 249517. The find Operation count was: 17. And the insert operation count was: 249500
+The global active number is 3.662 and the voltage is 233.860.
+The operation count was 249519. The find Operation count was: 19. And the insert operation count was: 249500
+The global active number is 4.448 and the voltage is 232.860.
+The operation count was 249521. The find Operation count was: 21. And the insert operation count was: 249500
+The global active number is 5.412 and the voltage is 232.780.
+The operation count was 249523. The find Operation count was: 23. And the insert operation count was: 249500
+The global active number is 5.224 and the voltage is 232.990.
+The operation count was 249525. The find Operation count was: 25. And the insert operation count was: 249500
+The global active number is 5.268 and the voltage is 232.910.
+The operation count was 249527. The find Operation count was: 27. And the insert operation count was: 249500
+The global active number is 4.054 and the voltage is 235.240.
+The operation count was 249529. The find Operation count was: 29. And the insert operation count was: 249500
+The global active number is 3.384 and the voltage is 237.140.
+The operation count was 249531. The find Operation count was: 31. And the insert operation count was: 249500
+The global active number is 3.270 and the voltage is 236.730.
+The operation count was 249533. The find Operation count was: 33. And the insert operation count was: 249500
+The global active number is 3.430 and the voltage is 237.060.
+The operation count was 249535. The find Operation count was: 35. And the insert operation count was: 249500
+The global active number is 3.266 and the voltage is 237.130.
+The operation count was 249537. The find Operation count was: 37. And the insert operation count was: 249500
+The global active number is 3.728 and the voltage is 235.840.
+The operation count was 249539. The find Operation count was: 39. And the insert operation count was: 249500
+The global active number is 5.894 and the voltage is 232.690.
+The operation count was 249541. The find Operation count was: 41. And the insert operation count was: 249500
+The global active number is 7.706 and the voltage is 230.980.
+The operation count was 249543. The find Operation count was: 43. And the insert operation count was: 249500
+The global active number is 7.026 and the voltage is 232.210.
+The operation count was 249545. The find Operation count was: 45. And the insert operation count was: 249500
+The global active number is 5.174 and the voltage is 234.190.
+The operation count was 249547. The find Operation count was: 47. And the insert operation count was: 249500
+The global active number is 4.474 and the voltage is 234.960.
+The operation count was 249549. The find Operation count was: 49. And the insert operation count was: 249500
+The global active number is 3.248 and the voltage is 236.660.
+The operation count was 249551. The find Operation count was: 51. And the insert operation count was: 249500
+The global active number is 3.236 and the voltage is 235.840.
+The operation count was 249553. The find Operation count was: 53. And the insert operation count was: 249500
+The global active number is 3.228 and the voltage is 235.600.
+The operation count was 249555. The find Operation count was: 55. And the insert operation count was: 249500
+The global active number is 3.258 and the voltage is 235.490.
+The operation count was 249557. The find Operation count was: 57. And the insert operation count was: 249500
+The global active number is 3.178 and the voltage is 235.280.
+The operation count was 249559. The find Operation count was: 59. And the insert operation count was: 249500
+The global active number is 2.720 and the voltage is 235.060.
+The operation count was 249561. The find Operation count was: 61. And the insert operation count was: 249500
+The global active number is 3.758 and the voltage is 234.170.
+The operation count was 249563. The find Operation count was: 63. And the insert operation count was: 249500
+The global active number is 4.342 and the voltage is 233.770.
+The operation count was 249565. The find Operation count was: 65. And the insert operation count was: 249500
+The global active number is 4.512 and the voltage is 233.620.
+The operation count was 249567. The find Operation count was: 67. And the insert operation count was: 249500
+The global active number is 4.058 and the voltage is 234.680.
+The operation count was 249569. The find Operation count was: 69. And the insert operation count was: 249500
+The global active number is 2.472 and the voltage is 236.940.
+The operation count was 249571. The find Operation count was: 71. And the insert operation count was: 249500
+The global active number is 2.790 and the voltage is 237.520.
+The operation count was 249573. The find Operation count was: 73. And the insert operation count was: 249500
+The global active number is 2.624 and the voltage is 238.200.
+The operation count was 249575. The find Operation count was: 75. And the insert operation count was: 249500
+The global active number is 2.772 and the voltage is 238.280.
+The operation count was 249577. The find Operation count was: 77. And the insert operation count was: 249500
+The global active number is 3.740 and the voltage is 236.930.
+The operation count was 249579. The find Operation count was: 79. And the insert operation count was: 249500
+The global active number is 4.928 and the voltage is 235.010.
+The operation count was 249581. The find Operation count was: 81. And the insert operation count was: 249500
+The global active number is 6.052 and the voltage is 232.930.
+The operation count was 249583. The find Operation count was: 83. And the insert operation count was: 249500
+The global active number is 6.752 and the voltage is 232.120.
+The operation count was 249585. The find Operation count was: 85. And the insert operation count was: 249500
+The global active number is 6.474 and the voltage is 231.850.
+The operation count was 249587. The find Operation count was: 87. And the insert operation count was: 249500
+The global active number is 6.308 and the voltage is 232.250.
+The operation count was 249589. The find Operation count was: 89. And the insert operation count was: 249500
+The global active number is 4.464 and the voltage is 234.660.
+The operation count was 249591. The find Operation count was: 91. And the insert operation count was: 249500
+The global active number is 3.396 and the voltage is 236.200.
+The operation count was 249593. The find Operation count was: 93. And the insert operation count was: 249500
+The global active number is 3.090 and the voltage is 237.070.
+The operation count was 249595. The find Operation count was: 95. And the insert operation count was: 249500
+The global active number is 3.730 and the voltage is 235.780.
+The operation count was 249597. The find Operation count was: 97. And the insert operation count was: 249500
+The global active number is 2.308 and the voltage is 237.430.
+The operation count was 249599. The find Operation count was: 99. And the insert operation count was: 249500
+The global active number is 2.388 and the voltage is 237.260.
+The operation count was 249601. The find Operation count was: 101. And the insert operation count was: 249500
+The global active number is 4.598 and the voltage is 234.250.
+The operation count was 249603. The find Operation count was: 103. And the insert operation count was: 249500
+The global active number is 4.524 and the voltage is 234.200.
+The operation count was 249605. The find Operation count was: 105. And the insert operation count was: 249500
+The global active number is 4.202 and the voltage is 234.310.
+The operation count was 249607. The find Operation count was: 107. And the insert operation count was: 249500
+The global active number is 4.472 and the voltage is 233.290.
+The operation count was 249609. The find Operation count was: 109. And the insert operation count was: 249500
+The global active number is 2.852 and the voltage is 235.610.
+The operation count was 249611. The find Operation count was: 111. And the insert operation count was: 249500
+The global active number is 2.928 and the voltage is 235.250.
+The operation count was 249613. The find Operation count was: 113. And the insert operation count was: 249500
+The global active number is 2.940 and the voltage is 236.040.
+The operation count was 249615. The find Operation count was: 115. And the insert operation count was: 249500
+The global active number is 2.934 and the voltage is 235.510.
+The operation count was 249617. The find Operation count was: 117. And the insert operation count was: 249500
+The global active number is 2.926 and the voltage is 235.680.
+The operation count was 249619. The find Operation count was: 119. And the insert operation count was: 249500
+The global active number is 3.452 and the voltage is 235.200.
+The operation count was 249621. The find Operation count was: 121. And the insert operation count was: 249500
+The global active number is 4.870 and the voltage is 233.740.
+The operation count was 249623. The find Operation count was: 123. And the insert operation count was: 249500
+The global active number is 4.868 and the voltage is 233.840.
+The operation count was 249625. The find Operation count was: 125. And the insert operation count was: 249500
+The global active number is 4.866 and the voltage is 233.790.
+The operation count was 249627. The find Operation count was: 127. And the insert operation count was: 249500
+The global active number is 3.176 and the voltage is 235.500.
+The operation count was 249629. The find Operation count was: 129. And the insert operation count was: 249500
+The global active number is 2.920 and the voltage is 235.840.
+The operation count was 249631. The find Operation count was: 131. And the insert operation count was: 249500
+The global active number is 2.930 and the voltage is 236.150.
+The operation count was 249633. The find Operation count was: 133. And the insert operation count was: 249500
+The global active number is 2.912 and the voltage is 235.810.
+The operation count was 249635. The find Operation count was: 135. And the insert operation count was: 249500
+The global active number is 2.608 and the voltage is 235.410.
+The operation count was 249637. The find Operation count was: 137. And the insert operation count was: 249500
+The global active number is 2.714 and the voltage is 234.820.
+The operation count was 249639. The find Operation count was: 139. And the insert operation count was: 249500
+The global active number is 3.538 and the voltage is 233.760.
+The operation count was 249641. The find Operation count was: 141. And the insert operation count was: 249500
+The global active number is 6.072 and the voltage is 232.480.
+The operation count was 249643. The find Operation count was: 143. And the insert operation count was: 249500
+The global active number is 4.536 and the voltage is 233.540.
+The operation count was 249645. The find Operation count was: 145. And the insert operation count was: 249500
+The global active number is 4.408 and the voltage is 232.320.
+The operation count was 249647. The find Operation count was: 147. And the insert operation count was: 249500
+The global active number is 2.912 and the voltage is 234.020.
+The operation count was 249649. The find Operation count was: 149. And the insert operation count was: 249500
+The global active number is 2.326 and the voltage is 234.760.
+The operation count was 249651. The find Operation count was: 151. And the insert operation count was: 249500
+The global active number is 2.264 and the voltage is 234.670.
+The operation count was 249653. The find Operation count was: 153. And the insert operation count was: 249500
+The global active number is 2.270 and the voltage is 235.270.
+The operation count was 249655. The find Operation count was: 155. And the insert operation count was: 249500
+The global active number is 2.258 and the voltage is 235.120.
+The operation count was 249657. The find Operation count was: 157. And the insert operation count was: 249500
+The global active number is 2.188 and the voltage is 235.800.
+The operation count was 249659. The find Operation count was: 159. And the insert operation count was: 249500
+The global active number is 2.978 and the voltage is 234.810.
+The operation count was 249661. The find Operation count was: 161. And the insert operation count was: 249500
+The global active number is 4.200 and the voltage is 234.380.
+The operation count was 249663. The find Operation count was: 163. And the insert operation count was: 249500
+The global active number is 4.204 and the voltage is 234.200.
+The operation count was 249665. The find Operation count was: 165. And the insert operation count was: 249500
+The global active number is 4.218 and the voltage is 233.980.
+The operation count was 249667. The find Operation count was: 167. And the insert operation count was: 249500
+The global active number is 2.786 and the voltage is 234.990.
+The operation count was 249669. The find Operation count was: 169. And the insert operation count was: 249500
+The global active number is 2.540 and the voltage is 234.670.
+The operation count was 249671. The find Operation count was: 171. And the insert operation count was: 249500
+The global active number is 2.496 and the voltage is 233.920.
+The operation count was 249673. The find Operation count was: 173. And the insert operation count was: 249500
+The global active number is 2.336 and the voltage is 233.510.
+The operation count was 249675. The find Operation count was: 175. And the insert operation count was: 249500
+The global active number is 2.322 and the voltage is 233.440.
+The operation count was 249677. The find Operation count was: 177. And the insert operation count was: 249500
+The global active number is 2.448 and the voltage is 233.640.
+The operation count was 249679. The find Operation count was: 179. And the insert operation count was: 249500
+The global active number is 4.298 and the voltage is 232.390.
+The operation count was 249681. The find Operation count was: 181. And the insert operation count was: 249500
+The global active number is 4.230 and the voltage is 232.250.
+The operation count was 249683. The find Operation count was: 183. And the insert operation count was: 249500
+The global active number is 4.230 and the voltage is 232.320.
+The operation count was 249685. The find Operation count was: 185. And the insert operation count was: 249500
+The global active number is 3.924 and the voltage is 232.790.
+The operation count was 249687. The find Operation count was: 187. And the insert operation count was: 249500
+The global active number is 4.218 and the voltage is 232.090.
+The operation count was 249689. The find Operation count was: 189. And the insert operation count was: 249500
+The global active number is 4.224 and the voltage is 231.960.
+The operation count was 249691. The find Operation count was: 191. And the insert operation count was: 249500
+The global active number is 4.070 and the voltage is 231.990.
+The operation count was 249693. The find Operation count was: 193. And the insert operation count was: 249500
+The global active number is 3.612 and the voltage is 232.360.
+The operation count was 249695. The find Operation count was: 195. And the insert operation count was: 249500
+The global active number is 3.458 and the voltage is 232.710.
+The operation count was 249697. The find Operation count was: 197. And the insert operation count was: 249500
+The global active number is 3.434 and the voltage is 232.010.
+The operation count was 249699. The find Operation count was: 199. And the insert operation count was: 249500
+The global active number is 3.366 and the voltage is 232.780.
+The operation count was 249701. The find Operation count was: 201. And the insert operation count was: 249500
+The global active number is 3.404 and the voltage is 233.080.
+The operation count was 249703. The find Operation count was: 203. And the insert operation count was: 249500
+The global active number is 3.382 and the voltage is 233.690.
+The operation count was 249705. The find Operation count was: 205. And the insert operation count was: 249500
+The global active number is 3.616 and the voltage is 234.440.
+The operation count was 249707. The find Operation count was: 207. And the insert operation count was: 249500
+The global active number is 3.476 and the voltage is 234.600.
+The operation count was 249709. The find Operation count was: 209. And the insert operation count was: 249500
+The global active number is 3.394 and the voltage is 235.120.
+The operation count was 249711. The find Operation count was: 211. And the insert operation count was: 249500
+The global active number is 3.400 and the voltage is 234.280.
+The operation count was 249713. The find Operation count was: 213. And the insert operation count was: 249500
+The global active number is 3.414 and the voltage is 234.190.
+The operation count was 249715. The find Operation count was: 215. And the insert operation count was: 249500
+The global active number is 3.432 and the voltage is 234.690.
+The operation count was 249717. The find Operation count was: 217. And the insert operation count was: 249500
+The global active number is 3.418 and the voltage is 234.260.
+The operation count was 249719. The find Operation count was: 219. And the insert operation count was: 249500
+The global active number is 3.392 and the voltage is 233.300.
+The operation count was 249721. The find Operation count was: 221. And the insert operation count was: 249500
+The global active number is 3.394 and the voltage is 233.430.
+The operation count was 249723. The find Operation count was: 223. And the insert operation count was: 249500
+The global active number is 3.394 and the voltage is 233.450.
+The operation count was 249725. The find Operation count was: 225. And the insert operation count was: 249500
+The global active number is 3.406 and the voltage is 233.910.
+The operation count was 249727. The find Operation count was: 227. And the insert operation count was: 249500
+The global active number is 3.420 and the voltage is 234.430.
+The operation count was 249729. The find Operation count was: 229. And the insert operation count was: 249500
+The global active number is 3.418 and the voltage is 234.340.
+The operation count was 249731. The find Operation count was: 231. And the insert operation count was: 249500
+The global active number is 3.422 and the voltage is 234.580.
+The operation count was 249733. The find Operation count was: 233. And the insert operation count was: 249500
+The global active number is 3.332 and the voltage is 234.020.
+The operation count was 249735. The find Operation count was: 235. And the insert operation count was: 249500
+The global active number is 3.316 and the voltage is 234.290.
+The operation count was 249737. The find Operation count was: 237. And the insert operation count was: 249500
+The global active number is 3.334 and the voltage is 234.360.
+The operation count was 249739. The find Operation count was: 239. And the insert operation count was: 249500
+The global active number is 3.262 and the voltage is 232.640.
+The operation count was 249741. The find Operation count was: 241. And the insert operation count was: 249500
+The global active number is 3.476 and the voltage is 232.960.
+The operation count was 249743. The find Operation count was: 243. And the insert operation count was: 249500
+The global active number is 3.620 and the voltage is 233.470.
+The operation count was 249745. The find Operation count was: 245. And the insert operation count was: 249500
+The global active number is 3.610 and the voltage is 234.980.
+The operation count was 249747. The find Operation count was: 247. And the insert operation count was: 249500
+The global active number is 3.646 and the voltage is 234.340.
+The operation count was 249749. The find Operation count was: 249. And the insert operation count was: 249500
+The global active number is 3.614 and the voltage is 233.920.
+The operation count was 249751. The find Operation count was: 251. And the insert operation count was: 249500
+The global active number is 3.408 and the voltage is 233.940.
+The operation count was 249753. The find Operation count was: 253. And the insert operation count was: 249500
+The global active number is 3.388 and the voltage is 233.720.
+The operation count was 249755. The find Operation count was: 255. And the insert operation count was: 249500
+The global active number is 3.372 and the voltage is 233.200.
+The operation count was 249757. The find Operation count was: 257. And the insert operation count was: 249500
+The global active number is 3.370 and the voltage is 233.100.
+The operation count was 249759. The find Operation count was: 259. And the insert operation count was: 249500
+The global active number is 3.342 and the voltage is 232.290.
+The operation count was 249761. The find Operation count was: 261. And the insert operation count was: 249500
+The global active number is 3.284 and the voltage is 232.450.
+The operation count was 249763. The find Operation count was: 263. And the insert operation count was: 249500
+The global active number is 3.276 and the voltage is 231.970.
+The operation count was 249765. The find Operation count was: 265. And the insert operation count was: 249500
+The global active number is 3.382 and the voltage is 232.420.
+The operation count was 249767. The find Operation count was: 267. And the insert operation count was: 249500
+The global active number is 3.418 and the voltage is 233.380.
+The operation count was 249769. The find Operation count was: 269. And the insert operation count was: 249500
+The global active number is 3.396 and the voltage is 232.690.
+The operation count was 249771. The find Operation count was: 271. And the insert operation count was: 249500
+The global active number is 3.406 and the voltage is 233.200.
+The operation count was 249773. The find Operation count was: 273. And the insert operation count was: 249500
+The global active number is 3.406 and the voltage is 233.260.
+The operation count was 249775. The find Operation count was: 275. And the insert operation count was: 249500
+The global active number is 3.392 and the voltage is 232.840.
+The operation count was 249777. The find Operation count was: 277. And the insert operation count was: 249500
+The global active number is 3.378 and the voltage is 232.390.
+The operation count was 249779. The find Operation count was: 279. And the insert operation count was: 249500
+The global active number is 3.368 and the voltage is 232.140.
+The operation count was 249781. The find Operation count was: 281. And the insert operation count was: 249500
+The global active number is 3.350 and the voltage is 231.570.
+The operation count was 249783. The find Operation count was: 283. And the insert operation count was: 249500
+The global active number is 3.352 and the voltage is 231.660.
+The operation count was 249785. The find Operation count was: 285. And the insert operation count was: 249500
+The global active number is 3.364 and the voltage is 232.220.
+The operation count was 249787. The find Operation count was: 287. And the insert operation count was: 249500
+The global active number is 3.380 and the voltage is 232.810.
+The operation count was 249789. The find Operation count was: 289. And the insert operation count was: 249500
+The global active number is 3.404 and the voltage is 233.770.
+The operation count was 249791. The find Operation count was: 291. And the insert operation count was: 249500
+The global active number is 3.378 and the voltage is 232.820.
+The operation count was 249793. The find Operation count was: 293. And the insert operation count was: 249500
+The global active number is 3.388 and the voltage is 233.220.
+The operation count was 249795. The find Operation count was: 295. And the insert operation count was: 249500
+The global active number is 3.376 and the voltage is 232.840.
+The operation count was 249797. The find Operation count was: 297. And the insert operation count was: 249500
+The global active number is 3.254 and the voltage is 232.750.
+The operation count was 249799. The find Operation count was: 299. And the insert operation count was: 249500
+The global active number is 3.214 and the voltage is 232.640.
+The operation count was 249801. The find Operation count was: 301. And the insert operation count was: 249500
+The global active number is 3.202 and the voltage is 232.200.
+The operation count was 249803. The find Operation count was: 303. And the insert operation count was: 249500
+The global active number is 3.202 and the voltage is 232.200.
+The operation count was 249805. The find Operation count was: 305. And the insert operation count was: 249500
+The global active number is 3.212 and the voltage is 232.580.
+The operation count was 249807. The find Operation count was: 307. And the insert operation count was: 249500
+The global active number is 3.206 and the voltage is 232.400.
+The operation count was 249809. The find Operation count was: 309. And the insert operation count was: 249500
+The global active number is 3.214 and the voltage is 232.660.
+The operation count was 249811. The find Operation count was: 311. And the insert operation count was: 249500
+The global active number is 3.206 and the voltage is 232.430.
+The operation count was 249813. The find Operation count was: 313. And the insert operation count was: 249500
+The global active number is 3.222 and the voltage is 233.020.
+The operation count was 249815. The find Operation count was: 315. And the insert operation count was: 249500
+The global active number is 3.216 and the voltage is 232.800.
+The operation count was 249817. The find Operation count was: 317. And the insert operation count was: 249500
+The global active number is 3.216 and the voltage is 232.790.
+The operation count was 249819. The find Operation count was: 319. And the insert operation count was: 249500
+The global active number is 3.194 and the voltage is 231.980.
+The operation count was 249821. The find Operation count was: 321. And the insert operation count was: 249500
+The global active number is 3.278 and the voltage is 232.880.
+The operation count was 249823. The find Operation count was: 323. And the insert operation count was: 249500
+The global active number is 3.282 and the voltage is 232.520.
+The operation count was 249825. The find Operation count was: 325. And the insert operation count was: 249500
+The global active number is 3.292 and the voltage is 232.870.
+The operation count was 249827. The find Operation count was: 327. And the insert operation count was: 249500
+The global active number is 3.316 and the voltage is 233.780.
+The operation count was 249829. The find Operation count was: 329. And the insert operation count was: 249500
+The global active number is 3.370 and the voltage is 233.690.
+The operation count was 249831. The find Operation count was: 331. And the insert operation count was: 249500
+The global active number is 3.420 and the voltage is 234.040.
+The operation count was 249833. The find Operation count was: 333. And the insert operation count was: 249500
+The global active number is 3.410 and the voltage is 233.930.
+The operation count was 249835. The find Operation count was: 335. And the insert operation count was: 249500
+The global active number is 3.400 and the voltage is 233.620.
+The operation count was 249837. The find Operation count was: 337. And the insert operation count was: 249500
+The global active number is 3.400 and the voltage is 233.640.
+The operation count was 249839. The find Operation count was: 339. And the insert operation count was: 249500
+The global active number is 3.388 and the voltage is 233.260.
+The operation count was 249841. The find Operation count was: 341. And the insert operation count was: 249500
+The global active number is 3.370 and the voltage is 233.900.
+The operation count was 249843. The find Operation count was: 343. And the insert operation count was: 249500
+The global active number is 3.332 and the voltage is 233.680.
+The operation count was 249845. The find Operation count was: 345. And the insert operation count was: 249500
+The global active number is 3.310 and the voltage is 232.830.
+The operation count was 249847. The find Operation count was: 347. And the insert operation count was: 249500
+The global active number is 3.312 and the voltage is 233.000.
+The operation count was 249849. The find Operation count was: 349. And the insert operation count was: 249500
+The global active number is 3.314 and the voltage is 233.080.
+The operation count was 249851. The find Operation count was: 351. And the insert operation count was: 249500
+The global active number is 3.302 and the voltage is 232.690.
+The operation count was 249853. The find Operation count was: 353. And the insert operation count was: 249500
+The global active number is 3.302 and the voltage is 232.910.
+The operation count was 249855. The find Operation count was: 355. And the insert operation count was: 249500
+The global active number is 3.300 and the voltage is 232.870.
+The operation count was 249857. The find Operation count was: 357. And the insert operation count was: 249500
+The global active number is 3.290 and the voltage is 232.420.
+The operation count was 249859. The find Operation count was: 359. And the insert operation count was: 249500
+The global active number is 3.286 and the voltage is 232.310.
+The operation count was 249861. The find Operation count was: 361. And the insert operation count was: 249500
+The global active number is 3.230 and the voltage is 232.790.
+The operation count was 249863. The find Operation count was: 363. And the insert operation count was: 249500
+The global active number is 3.218 and the voltage is 233.050.
+The operation count was 249865. The find Operation count was: 365. And the insert operation count was: 249500
+The global active number is 3.258 and the voltage is 234.570.
+The operation count was 249867. The find Operation count was: 367. And the insert operation count was: 249500
+The global active number is 3.264 and the voltage is 234.790.
+The operation count was 249869. The find Operation count was: 369. And the insert operation count was: 249500
+The global active number is 3.260 and the voltage is 234.600.
+The operation count was 249871. The find Operation count was: 371. And the insert operation count was: 249500
+The global active number is 3.262 and the voltage is 234.540.
+The operation count was 249873. The find Operation count was: 373. And the insert operation count was: 249500
+The global active number is 3.264 and the voltage is 234.600.
+The operation count was 249875. The find Operation count was: 375. And the insert operation count was: 249500
+The global active number is 3.238 and the voltage is 233.770.
+The operation count was 249877. The find Operation count was: 377. And the insert operation count was: 249500
+The global active number is 3.228 and the voltage is 233.500.
+The operation count was 249879. The find Operation count was: 379. And the insert operation count was: 249500
+The global active number is 3.222 and the voltage is 233.270.
+The operation count was 249881. The find Operation count was: 381. And the insert operation count was: 249500
+The global active number is 3.226 and the voltage is 233.370.
+The operation count was 249883. The find Operation count was: 383. And the insert operation count was: 249500
+The global active number is 3.206 and the voltage is 232.640.
+The operation count was 249885. The find Operation count was: 385. And the insert operation count was: 249500
+The global active number is 3.188 and the voltage is 231.950.
+The operation count was 249887. The find Operation count was: 387. And the insert operation count was: 249500
+The global active number is 3.196 and the voltage is 232.210.
+The operation count was 249889. The find Operation count was: 389. And the insert operation count was: 249500
+The global active number is 3.204 and the voltage is 232.500.
+The operation count was 249891. The find Operation count was: 391. And the insert operation count was: 249500
+The global active number is 3.232 and the voltage is 233.630.
+The operation count was 249893. The find Operation count was: 393. And the insert operation count was: 249500
+The global active number is 3.254 and the voltage is 234.430.
+The operation count was 249895. The find Operation count was: 395. And the insert operation count was: 249500
+The global active number is 3.376 and the voltage is 234.630.
+The operation count was 249897. The find Operation count was: 397. And the insert operation count was: 249500
+The global active number is 3.372 and the voltage is 235.050.
+The operation count was 249899. The find Operation count was: 399. And the insert operation count was: 249500
+The global active number is 3.366 and the voltage is 234.960.
+The operation count was 249901. The find Operation count was: 401. And the insert operation count was: 249500
+The global active number is 3.386 and the voltage is 235.770.
+The operation count was 249903. The find Operation count was: 403. And the insert operation count was: 249500
+The global active number is 3.496 and the voltage is 236.760.
+The operation count was 249905. The find Operation count was: 405. And the insert operation count was: 249500
+The global active number is 3.426 and the voltage is 234.590.
+The operation count was 249907. The find Operation count was: 407. And the insert operation count was: 249500
+The global active number is 3.440 and the voltage is 235.130.
+The operation count was 249909. The find Operation count was: 409. And the insert operation count was: 249500
+The global active number is 3.440 and the voltage is 235.140.
+The operation count was 249911. The find Operation count was: 411. And the insert operation count was: 249500
+The global active number is 3.454 and the voltage is 235.750.
+The operation count was 249913. The find Operation count was: 413. And the insert operation count was: 249500
+The global active number is 3.450 and the voltage is 235.690.
+The operation count was 249915. The find Operation count was: 415. And the insert operation count was: 249500
+The global active number is 3.480 and the voltage is 236.860.
+The operation count was 249917. The find Operation count was: 417. And the insert operation count was: 249500
+The global active number is 3.474 and the voltage is 236.720.
+The operation count was 249919. The find Operation count was: 419. And the insert operation count was: 249500
+The global active number is 3.456 and the voltage is 236.050.
+The operation count was 249921. The find Operation count was: 421. And the insert operation count was: 249500
+The global active number is 1.832 and the voltage is 237.540.
+The operation count was 249923. The find Operation count was: 423. And the insert operation count was: 249500
+The global active number is 2.044 and the voltage is 237.440.
+The operation count was 249925. The find Operation count was: 425. And the insert operation count was: 249500
+The global active number is 3.354 and the voltage is 237.000.
+The operation count was 249927. The find Operation count was: 427. And the insert operation count was: 249500
+The global active number is 3.282 and the voltage is 235.550.
+The operation count was 249929. The find Operation count was: 429. And the insert operation count was: 249500
+The global active number is 3.308 and the voltage is 236.510.
+The operation count was 249931. The find Operation count was: 431. And the insert operation count was: 249500
+The global active number is 3.314 and the voltage is 236.760.
+The operation count was 249933. The find Operation count was: 433. And the insert operation count was: 249500
+The global active number is 3.306 and the voltage is 237.110.
+The operation count was 249935. The find Operation count was: 435. And the insert operation count was: 249500
+The global active number is 1.692 and the voltage is 238.720.
+The operation count was 249937. The find Operation count was: 437. And the insert operation count was: 249500
+The global active number is 3.342 and the voltage is 237.660.
+The operation count was 249939. The find Operation count was: 439. And the insert operation count was: 249500
+The global active number is 3.354 and the voltage is 238.200.
+The operation count was 249941. The find Operation count was: 441. And the insert operation count was: 249500
+The global active number is 3.334 and the voltage is 237.460.
+The operation count was 249943. The find Operation count was: 443. And the insert operation count was: 249500
+The global active number is 3.330 and the voltage is 237.360.
+The operation count was 249945. The find Operation count was: 445. And the insert operation count was: 249500
+The global active number is 2.740 and the voltage is 238.130.
+The operation count was 249947. The find Operation count was: 447. And the insert operation count was: 249500
+The global active number is 2.188 and the voltage is 237.740.
+The operation count was 249949. The find Operation count was: 449. And the insert operation count was: 249500
+The global active number is 3.330 and the voltage is 237.260.
+The operation count was 249951. The find Operation count was: 451. And the insert operation count was: 249500
+The global active number is 3.340 and the voltage is 237.690.
+The operation count was 249953. The find Operation count was: 453. And the insert operation count was: 249500
+The global active number is 3.306 and the voltage is 236.440.
+The operation count was 249955. The find Operation count was: 455. And the insert operation count was: 249500
+The global active number is 3.044 and the voltage is 236.230.
+The operation count was 249957. The find Operation count was: 457. And the insert operation count was: 249500
+The global active number is 1.766 and the voltage is 237.700.
+The operation count was 249959. The find Operation count was: 459. And the insert operation count was: 249500
+The global active number is 3.376 and the voltage is 235.730.
+The operation count was 249961. The find Operation count was: 461. And the insert operation count was: 249500
+The global active number is 3.414 and the voltage is 236.510.
+The operation count was 249963. The find Operation count was: 463. And the insert operation count was: 249500
+The global active number is 3.426 and the voltage is 237.110.
+The operation count was 249965. The find Operation count was: 465. And the insert operation count was: 249500
+The global active number is 3.420 and the voltage is 237.060.
+The operation count was 249967. The find Operation count was: 467. And the insert operation count was: 249500
+The global active number is 1.876 and the voltage is 238.630.
+The operation count was 249969. The find Operation count was: 469. And the insert operation count was: 249500
+The global active number is 3.442 and the voltage is 237.580.
+The operation count was 249971. The find Operation count was: 471. And the insert operation count was: 249500
+The global active number is 3.414 and the voltage is 236.870.
+The operation count was 249973. The find Operation count was: 473. And the insert operation count was: 249500
+The global active number is 3.412 and the voltage is 236.940.
+The operation count was 249975. The find Operation count was: 475. And the insert operation count was: 249500
+The global active number is 2.542 and the voltage is 238.170.
+The operation count was 249977. The find Operation count was: 477. And the insert operation count was: 249500
+The global active number is 2.820 and the voltage is 237.420.
+The operation count was 249979. The find Operation count was: 479. And the insert operation count was: 249500
+The global active number is 3.410 and the voltage is 236.910.
+The operation count was 249981. The find Operation count was: 481. And the insert operation count was: 249500
+The global active number is 3.392 and the voltage is 236.240.
+The operation count was 249983. The find Operation count was: 483. And the insert operation count was: 249500
+The global active number is 2.878 and the voltage is 237.170.
+The operation count was 249985. The find Operation count was: 485. And the insert operation count was: 249500
+The global active number is 1.848 and the voltage is 238.590.
+The operation count was 249987. The find Operation count was: 487. And the insert operation count was: 249500
+The global active number is 3.494 and the voltage is 237.430.
+The operation count was 249989. The find Operation count was: 489. And the insert operation count was: 249500
+The global active number is 3.420 and the voltage is 237.730.
+The operation count was 249991. The find Operation count was: 491. And the insert operation count was: 249500
+The global active number is 3.226 and the voltage is 237.200.
+The operation count was 249993. The find Operation count was: 493. And the insert operation count was: 249500
+The global active number is 1.948 and the voltage is 238.410.
+The operation count was 249995. The find Operation count was: 495. And the insert operation count was: 249500
+The global active number is 3.392 and the voltage is 236.600.
+The operation count was 249997. The find Operation count was: 497. And the insert operation count was: 249500
+The global active number is 3.368 and the voltage is 236.120.
+The operation count was 249999. The find Operation count was: 499. And the insert operation count was: 249500
+The global active number is 3.378 and the voltage is 236.540.
+The operation count was 250001. The find Operation count was: 501. And the insert operation count was: 249500
+The global active number is 1.872 and the voltage is 238.480.
+The operation count was 250003. The find Operation count was: 503. And the insert operation count was: 249500
+The global active number is 3.212 and the voltage is 237.270.
+The operation count was 250005. The find Operation count was: 505. And the insert operation count was: 249500
+The global active number is 3.346 and the voltage is 237.060.
+The operation count was 250007. The find Operation count was: 507. And the insert operation count was: 249500
+The global active number is 3.308 and the voltage is 236.490.
+The operation count was 250009. The find Operation count was: 509. And the insert operation count was: 249500
+The global active number is 3.302 and the voltage is 236.280.
+The operation count was 250011. The find Operation count was: 511. And the insert operation count was: 249500
+The global active number is 2.360 and the voltage is 236.890.
+The operation count was 250013. The find Operation count was: 513. And the insert operation count was: 249500
+The global active number is 2.652 and the voltage is 236.640.
+The operation count was 250015. The find Operation count was: 515. And the insert operation count was: 249500
+The global active number is 3.392 and the voltage is 236.580.
+The operation count was 250017. The find Operation count was: 517. And the insert operation count was: 249500
+The global active number is 3.398 and the voltage is 236.830.
+The operation count was 250019. The find Operation count was: 519. And the insert operation count was: 249500
+The global active number is 3.424 and the voltage is 237.750.
+The operation count was 250021. The find Operation count was: 521. And the insert operation count was: 249500
+The global active number is 1.860 and the voltage is 239.690.
+The operation count was 250023. The find Operation count was: 523. And the insert operation count was: 249500
+The global active number is 3.250 and the voltage is 238.950.
+The operation count was 250025. The find Operation count was: 525. And the insert operation count was: 249500
+The global active number is 3.502 and the voltage is 236.460.
+The operation count was 250027. The find Operation count was: 527. And the insert operation count was: 249500
+The global active number is 3.484 and the voltage is 235.980.
+The operation count was 250029. The find Operation count was: 529. And the insert operation count was: 249500
+The global active number is 3.478 and the voltage is 235.850.
+The operation count was 250031. The find Operation count was: 531. And the insert operation count was: 249500
+The global active number is 1.696 and the voltage is 238.190.
+The operation count was 250033. The find Operation count was: 533. And the insert operation count was: 249500
+The global active number is 3.494 and the voltage is 236.280.
+The operation count was 250035. The find Operation count was: 535. And the insert operation count was: 249500
+The global active number is 3.482 and the voltage is 236.400.
+The operation count was 250037. The find Operation count was: 537. And the insert operation count was: 249500
+The global active number is 3.480 and the voltage is 236.460.
+The operation count was 250039. The find Operation count was: 539. And the insert operation count was: 249500
+The global active number is 3.474 and the voltage is 236.280.
+The operation count was 250041. The find Operation count was: 541. And the insert operation count was: 249500
+The global active number is 2.308 and the voltage is 237.330.
+The operation count was 250043. The find Operation count was: 543. And the insert operation count was: 249500
+The global active number is 2.926 and the voltage is 237.090.
+The operation count was 250045. The find Operation count was: 545. And the insert operation count was: 249500
+The global active number is 3.472 and the voltage is 236.390.
+The operation count was 250047. The find Operation count was: 547. And the insert operation count was: 249500
+The global active number is 3.480 and the voltage is 236.750.
+The operation count was 250049. The find Operation count was: 549. And the insert operation count was: 249500
+The global active number is 3.454 and the voltage is 235.730.
+The operation count was 250051. The find Operation count was: 551. And the insert operation count was: 249500
+The global active number is 3.464 and the voltage is 236.030.
+The operation count was 250053. The find Operation count was: 553. And the insert operation count was: 249500
+The global active number is 1.786 and the voltage is 237.680.
+The operation count was 250055. The find Operation count was: 555. And the insert operation count was: 249500
+The global active number is 3.182 and the voltage is 235.990.
+The operation count was 250057. The find Operation count was: 557. And the insert operation count was: 249500
+The global active number is 3.378 and the voltage is 236.260.
+The operation count was 250059. The find Operation count was: 559. And the insert operation count was: 249500
+The global active number is 3.372 and the voltage is 236.030.
+The operation count was 250061. The find Operation count was: 561. And the insert operation count was: 249500
+The global active number is 3.362 and the voltage is 235.700.
+The operation count was 250063. The find Operation count was: 563. And the insert operation count was: 249500
+The global active number is 3.112 and the voltage is 236.080.
+The operation count was 250065. The find Operation count was: 565. And the insert operation count was: 249500
+The global active number is 1.614 and the voltage is 237.310.
+The operation count was 250067. The find Operation count was: 567. And the insert operation count was: 249500
+The global active number is 3.358 and the voltage is 236.140.
+The operation count was 250069. The find Operation count was: 569. And the insert operation count was: 249500
+The global active number is 3.388 and the voltage is 236.610.
+The operation count was 250071. The find Operation count was: 571. And the insert operation count was: 249500
+The global active number is 3.392 and the voltage is 236.930.
+The operation count was 250073. The find Operation count was: 573. And the insert operation count was: 249500
+The global active number is 2.810 and the voltage is 237.970.
+The operation count was 250075. The find Operation count was: 575. And the insert operation count was: 249500
+The global active number is 2.180 and the voltage is 238.020.
+The operation count was 250077. The find Operation count was: 577. And the insert operation count was: 249500
+The global active number is 3.370 and the voltage is 236.060.
+The operation count was 250079. The find Operation count was: 579. And the insert operation count was: 249500
+The global active number is 3.326 and the voltage is 234.450.
+The operation count was 250081. The find Operation count was: 581. And the insert operation count was: 249500
+The global active number is 2.778 and the voltage is 235.310.
+The operation count was 250083. The find Operation count was: 583. And the insert operation count was: 249500
+The global active number is 2.358 and the voltage is 237.100.
+The operation count was 250085. The find Operation count was: 585. And the insert operation count was: 249500
+The global active number is 0.960 and the voltage is 238.680.
+The operation count was 250087. The find Operation count was: 587. And the insert operation count was: 249500
+The global active number is 1.606 and the voltage is 238.760.
+The operation count was 250089. The find Operation count was: 589. And the insert operation count was: 249500
+The global active number is 2.350 and the voltage is 238.590.
+The operation count was 250091. The find Operation count was: 591. And the insert operation count was: 249500
+The global active number is 2.428 and the voltage is 238.870.
+The operation count was 250093. The find Operation count was: 593. And the insert operation count was: 249500
+The global active number is 2.078 and the voltage is 238.970.
+The operation count was 250095. The find Operation count was: 595. And the insert operation count was: 249500
+The global active number is 0.780 and the voltage is 239.930.
+The operation count was 250097. The find Operation count was: 597. And the insert operation count was: 249500
+The global active number is 2.426 and the voltage is 239.050.
+The operation count was 250099. The find Operation count was: 599. And the insert operation count was: 249500
+The global active number is 2.412 and the voltage is 238.460.
+The operation count was 250101. The find Operation count was: 601. And the insert operation count was: 249500
+The global active number is 2.428 and the voltage is 239.680.
+The operation count was 250103. The find Operation count was: 603. And the insert operation count was: 249500
+The global active number is 1.530 and the voltage is 240.720.
+The operation count was 250105. The find Operation count was: 605. And the insert operation count was: 249500
+The global active number is 1.388 and the voltage is 240.870.
+The operation count was 250107. The find Operation count was: 607. And the insert operation count was: 249500
+The global active number is 2.424 and the voltage is 239.710.
+The operation count was 250109. The find Operation count was: 609. And the insert operation count was: 249500
+The global active number is 2.428 and the voltage is 239.890.
+The operation count was 250111. The find Operation count was: 611. And the insert operation count was: 249500
+The global active number is 2.388 and the voltage is 239.480.
+The operation count was 250113. The find Operation count was: 613. And the insert operation count was: 249500
+The global active number is 0.376 and the voltage is 241.640.
+The operation count was 250115. The find Operation count was: 615. And the insert operation count was: 249500
+The global active number is 2.202 and the voltage is 240.070.
+The operation count was 250117. The find Operation count was: 617. And the insert operation count was: 249500
+The global active number is 2.430 and the voltage is 239.770.
+The operation count was 250119. The find Operation count was: 619. And the insert operation count was: 249500
+The global active number is 2.346 and the voltage is 240.050.
+The operation count was 250121. The find Operation count was: 621. And the insert operation count was: 249500
+The global active number is 1.916 and the voltage is 239.750.
+The operation count was 250123. The find Operation count was: 623. And the insert operation count was: 249500
+The global active number is 0.384 and the voltage is 240.580.
+The operation count was 250125. The find Operation count was: 625. And the insert operation count was: 249500
+The global active number is 2.334 and the voltage is 239.200.
+The operation count was 250127. The find Operation count was: 627. And the insert operation count was: 249500
+The global active number is 2.320 and the voltage is 238.840.
+The operation count was 250129. The find Operation count was: 629. And the insert operation count was: 249500
+The global active number is 2.306 and the voltage is 238.390.
+The operation count was 250131. The find Operation count was: 631. And the insert operation count was: 249500
+The global active number is 2.306 and the voltage is 238.390.
+The operation count was 250133. The find Operation count was: 633. And the insert operation count was: 249500
+The global active number is 0.436 and the voltage is 241.060.
+The operation count was 250135. The find Operation count was: 635. And the insert operation count was: 249500
+The global active number is 1.584 and the voltage is 240.890.
+The operation count was 250137. The find Operation count was: 637. And the insert operation count was: 249500
+The global active number is 2.328 and the voltage is 239.460.
+The operation count was 250139. The find Operation count was: 639. And the insert operation count was: 249500
+The global active number is 2.326 and the voltage is 239.270.
+The operation count was 250141. The find Operation count was: 641. And the insert operation count was: 249500
+The global active number is 2.334 and the voltage is 239.570.
+The operation count was 250143. The find Operation count was: 643. And the insert operation count was: 249500
+The global active number is 1.846 and the voltage is 239.990.
+The operation count was 250145. The find Operation count was: 645. And the insert operation count was: 249500
+The global active number is 0.284 and the voltage is 242.040.
+The operation count was 250147. The find Operation count was: 647. And the insert operation count was: 249500
+The global active number is 2.342 and the voltage is 239.890.
+The operation count was 250149. The find Operation count was: 649. And the insert operation count was: 249500
+The global active number is 2.392 and the voltage is 239.910.
+The operation count was 250151. The find Operation count was: 651. And the insert operation count was: 249500
+The global active number is 2.414 and the voltage is 240.020.
+The operation count was 250153. The find Operation count was: 653. And the insert operation count was: 249500
+The global active number is 2.414 and the voltage is 239.970.
+The operation count was 250155. The find Operation count was: 655. And the insert operation count was: 249500
+The global active number is 0.754 and the voltage is 241.270.
+The operation count was 250157. The find Operation count was: 657. And the insert operation count was: 249500
+The global active number is 1.420 and the voltage is 238.640.
+The operation count was 250159. The find Operation count was: 659. And the insert operation count was: 249500
+The global active number is 2.468 and the voltage is 237.470.
+The operation count was 250161. The find Operation count was: 661. And the insert operation count was: 249500
+The global active number is 2.474 and the voltage is 238.050.
+The operation count was 250163. The find Operation count was: 663. And the insert operation count was: 249500
+The global active number is 2.488 and the voltage is 239.030.
+The operation count was 250165. The find Operation count was: 665. And the insert operation count was: 249500
+The global active number is 1.810 and the voltage is 240.280.
+The operation count was 250167. The find Operation count was: 667. And the insert operation count was: 249500
+The global active number is 0.674 and the voltage is 241.360.
+The operation count was 250169. The find Operation count was: 669. And the insert operation count was: 249500
+The global active number is 2.444 and the voltage is 239.420.
+The operation count was 250171. The find Operation count was: 671. And the insert operation count was: 249500
+The global active number is 2.410 and the voltage is 238.900.
+The operation count was 250173. The find Operation count was: 673. And the insert operation count was: 249500
+The global active number is 2.412 and the voltage is 239.130.
+The operation count was 250175. The find Operation count was: 675. And the insert operation count was: 249500
+The global active number is 2.206 and the voltage is 239.370.
+The operation count was 250177. The find Operation count was: 677. And the insert operation count was: 249500
+The global active number is 0.370 and the voltage is 241.580.
+The operation count was 250179. The find Operation count was: 679. And the insert operation count was: 249500
+The global active number is 2.104 and the voltage is 240.110.
+The operation count was 250181. The find Operation count was: 681. And the insert operation count was: 249500
+The global active number is 2.404 and the voltage is 238.730.
+The operation count was 250183. The find Operation count was: 683. And the insert operation count was: 249500
+The global active number is 2.418 and the voltage is 239.520.
+The operation count was 250185. The find Operation count was: 685. And the insert operation count was: 249500
+The global active number is 2.342 and the voltage is 239.740.
+The operation count was 250187. The find Operation count was: 687. And the insert operation count was: 249500
+The global active number is 1.262 and the voltage is 240.960.
+The operation count was 250189. The find Operation count was: 689. And the insert operation count was: 249500
+The global active number is 0.852 and the voltage is 241.640.
+The operation count was 250191. The find Operation count was: 691. And the insert operation count was: 249500
+The global active number is 2.340 and the voltage is 240.050.
+The operation count was 250193. The find Operation count was: 693. And the insert operation count was: 249500
+The global active number is 2.336 and the voltage is 240.070.
+The operation count was 250195. The find Operation count was: 695. And the insert operation count was: 249500
+The global active number is 2.334 and the voltage is 239.990.
+The operation count was 250197. The find Operation count was: 697. And the insert operation count was: 249500
+The global active number is 2.330 and the voltage is 239.740.
+The operation count was 250199. The find Operation count was: 699. And the insert operation count was: 249500
+The global active number is 1.038 and the voltage is 241.170.
+The operation count was 250201. The find Operation count was: 701. And the insert operation count was: 249500
+The global active number is 0.386 and the voltage is 242.390.
+The operation count was 250203. The find Operation count was: 703. And the insert operation count was: 249500
+The global active number is 2.350 and the voltage is 240.410.
+The operation count was 250205. The find Operation count was: 705. And the insert operation count was: 249500
+The global active number is 2.346 and the voltage is 240.500.
+The operation count was 250207. The find Operation count was: 707. And the insert operation count was: 249500
+The global active number is 2.346 and the voltage is 240.550.
+The operation count was 250209. The find Operation count was: 709. And the insert operation count was: 249500
+The global active number is 1.834 and the voltage is 240.970.
+The operation count was 250211. The find Operation count was: 711. And the insert operation count was: 249500
+The global active number is 1.222 and the voltage is 241.580.
+The operation count was 250213. The find Operation count was: 713. And the insert operation count was: 249500
+The global active number is 2.342 and the voltage is 240.210.
+The operation count was 250215. The find Operation count was: 715. And the insert operation count was: 249500
+The global active number is 2.334 and the voltage is 239.980.
+The operation count was 250217. The find Operation count was: 717. And the insert operation count was: 249500
+The global active number is 1.666 and the voltage is 240.650.
+The operation count was 250219. The find Operation count was: 719. And the insert operation count was: 249500
+The global active number is 1.198 and the voltage is 241.680.
+The operation count was 250221. The find Operation count was: 721. And the insert operation count was: 249500
+The global active number is 2.350 and the voltage is 240.700.
+The operation count was 250223. The find Operation count was: 723. And the insert operation count was: 249500
+The global active number is 2.398 and the voltage is 240.700.
+The operation count was 250225. The find Operation count was: 725. And the insert operation count was: 249500
+The global active number is 2.444 and the voltage is 240.110.
+The operation count was 250227. The find Operation count was: 727. And the insert operation count was: 249500
+The global active number is 0.406 and the voltage is 241.710.
+The operation count was 250229. The find Operation count was: 729. And the insert operation count was: 249500
+The global active number is 2.434 and the voltage is 240.130.
+The operation count was 250231. The find Operation count was: 731. And the insert operation count was: 249500
+The global active number is 2.502 and the voltage is 240.240.
+The operation count was 250233. The find Operation count was: 733. And the insert operation count was: 249500
+The global active number is 2.518 and the voltage is 240.530.
+The operation count was 250235. The find Operation count was: 735. And the insert operation count was: 249500
+The global active number is 1.516 and the voltage is 241.360.
+The operation count was 250237. The find Operation count was: 737. And the insert operation count was: 249500
+The global active number is 1.498 and the voltage is 241.020.
+The operation count was 250239. The find Operation count was: 739. And the insert operation count was: 249500
+The global active number is 2.508 and the voltage is 240.060.
+The operation count was 250241. The find Operation count was: 741. And the insert operation count was: 249500
+The global active number is 2.504 and the voltage is 240.090.
+The operation count was 250243. The find Operation count was: 743. And the insert operation count was: 249500
+The global active number is 2.492 and the voltage is 239.490.
+The operation count was 250245. The find Operation count was: 745. And the insert operation count was: 249500
+The global active number is 0.814 and the voltage is 242.160.
+The operation count was 250247. The find Operation count was: 747. And the insert operation count was: 249500
+The global active number is 2.304 and the voltage is 240.950.
+The operation count was 250249. The find Operation count was: 749. And the insert operation count was: 249500
+The global active number is 2.530 and the voltage is 241.740.
+The operation count was 250251. The find Operation count was: 751. And the insert operation count was: 249500
+The global active number is 2.378 and the voltage is 241.180.
+The operation count was 250253. The find Operation count was: 753. And the insert operation count was: 249500
+The global active number is 0.384 and the voltage is 243.730.
+The operation count was 250255. The find Operation count was: 755. And the insert operation count was: 249500
+The global active number is 2.370 and the voltage is 241.480.
+The operation count was 250257. The find Operation count was: 757. And the insert operation count was: 249500
+The global active number is 2.358 and the voltage is 241.130.
+The operation count was 250259. The find Operation count was: 759. And the insert operation count was: 249500
+The global active number is 2.352 and the voltage is 240.960.
+The operation count was 250261. The find Operation count was: 761. And the insert operation count was: 249500
+The global active number is 0.416 and the voltage is 242.940.
+The operation count was 250263. The find Operation count was: 763. And the insert operation count was: 249500
+The global active number is 2.654 and the voltage is 240.740.
+The operation count was 250265. The find Operation count was: 765. And the insert operation count was: 249500
+The global active number is 2.540 and the voltage is 241.230.
+The operation count was 250267. The find Operation count was: 767. And the insert operation count was: 249500
+The global active number is 2.526 and the voltage is 241.790.
+The operation count was 250269. The find Operation count was: 769. And the insert operation count was: 249500
+The global active number is 1.206 and the voltage is 241.830.
+The operation count was 250271. The find Operation count was: 771. And the insert operation count was: 249500
+The global active number is 3.844 and the voltage is 238.710.
+The operation count was 250273. The find Operation count was: 773. And the insert operation count was: 249500
+The global active number is 4.122 and the voltage is 237.990.
+The operation count was 250275. The find Operation count was: 775. And the insert operation count was: 249500
+The global active number is 3.458 and the voltage is 238.890.
+The operation count was 250277. The find Operation count was: 777. And the insert operation count was: 249500
+The global active number is 1.988 and the voltage is 240.260.
+The operation count was 250279. The find Operation count was: 779. And the insert operation count was: 249500
+The global active number is 0.596 and the voltage is 240.880.
+The operation count was 250281. The find Operation count was: 781. And the insert operation count was: 249500
+The global active number is 1.290 and the voltage is 240.690.
+The operation count was 250283. The find Operation count was: 783. And the insert operation count was: 249500
+The global active number is 2.730 and the voltage is 239.430.
+The operation count was 250285. The find Operation count was: 785. And the insert operation count was: 249500
+The global active number is 2.734 and the voltage is 239.810.
+The operation count was 250287. The find Operation count was: 787. And the insert operation count was: 249500
+The global active number is 2.764 and the voltage is 241.270.
+The operation count was 250289. The find Operation count was: 789. And the insert operation count was: 249500
+The global active number is 2.586 and the voltage is 241.630.
+The operation count was 250291. The find Operation count was: 791. And the insert operation count was: 249500
+The global active number is 1.044 and the voltage is 242.730.
+The operation count was 250293. The find Operation count was: 793. And the insert operation count was: 249500
+The global active number is 1.520 and the voltage is 242.200.
+The operation count was 250295. The find Operation count was: 795. And the insert operation count was: 249500
+The global active number is 3.038 and the voltage is 240.140.
+The operation count was 250297. The find Operation count was: 797. And the insert operation count was: 249500
+The global active number is 2.974 and the voltage is 239.970.
+The operation count was 250299. The find Operation count was: 799. And the insert operation count was: 249500
+The global active number is 2.846 and the voltage is 240.390.
+The operation count was 250301. The find Operation count was: 801. And the insert operation count was: 249500
+The global active number is 2.848 and the voltage is 240.590.
+The operation count was 250303. The find Operation count was: 803. And the insert operation count was: 249500
+The global active number is 2.858 and the voltage is 241.140.
+The operation count was 250305. The find Operation count was: 805. And the insert operation count was: 249500
+The global active number is 2.472 and the voltage is 241.620.
+The operation count was 250307. The find Operation count was: 807. And the insert operation count was: 249500
+The global active number is 0.658 and the voltage is 243.750.
+The operation count was 250309. The find Operation count was: 809. And the insert operation count was: 249500
+The global active number is 0.838 and the voltage is 242.090.
+The operation count was 250311. The find Operation count was: 811. And the insert operation count was: 249500
+The global active number is 2.608 and the voltage is 239.450.
+The operation count was 250313. The find Operation count was: 813. And the insert operation count was: 249500
+The global active number is 2.598 and the voltage is 239.440.
+The operation count was 250315. The find Operation count was: 815. And the insert operation count was: 249500
+The global active number is 2.560 and the voltage is 238.710.
+The operation count was 250317. The find Operation count was: 817. And the insert operation count was: 249500
+The global active number is 2.526 and the voltage is 236.950.
+The operation count was 250319. The find Operation count was: 819. And the insert operation count was: 249500
+The global active number is 2.472 and the voltage is 237.550.
+The operation count was 250321. The find Operation count was: 821. And the insert operation count was: 249500
+The global active number is 1.658 and the voltage is 238.480.
+The operation count was 250323. The find Operation count was: 823. And the insert operation count was: 249500
+The global active number is 0.422 and the voltage is 239.790.
+The operation count was 250325. The find Operation count was: 825. And the insert operation count was: 249500
+The global active number is 0.790 and the voltage is 239.470.
+The operation count was 250327. The find Operation count was: 827. And the insert operation count was: 249500
+The global active number is 2.436 and the voltage is 238.510.
+The operation count was 250329. The find Operation count was: 829. And the insert operation count was: 249500
+The global active number is 2.396 and the voltage is 239.030.
+The operation count was 250331. The find Operation count was: 831. And the insert operation count was: 249500
+The global active number is 2.338 and the voltage is 238.370.
+The operation count was 250333. The find Operation count was: 833. And the insert operation count was: 249500
+The global active number is 2.304 and the voltage is 238.380.
+The operation count was 250335. The find Operation count was: 835. And the insert operation count was: 249500
+The global active number is 0.276 and the voltage is 240.560.
+The operation count was 250337. The find Operation count was: 837. And the insert operation count was: 249500
+The global active number is 0.712 and the voltage is 239.840.
+The operation count was 250339. The find Operation count was: 839. And the insert operation count was: 249500
+The global active number is 2.332 and the voltage is 239.110.
+The operation count was 250341. The find Operation count was: 841. And the insert operation count was: 249500
+The global active number is 2.344 and the voltage is 239.990.
+The operation count was 250343. The find Operation count was: 843. And the insert operation count was: 249500
+The global active number is 2.354 and the voltage is 240.640.
+The operation count was 250345. The find Operation count was: 845. And the insert operation count was: 249500
+The global active number is 2.332 and the voltage is 239.450.
+The operation count was 250347. The find Operation count was: 847. And the insert operation count was: 249500
+The global active number is 2.368 and the voltage is 241.400.
+The operation count was 250349. The find Operation count was: 849. And the insert operation count was: 249500
+The global active number is 0.612 and the voltage is 243.680.
+The operation count was 250351. The find Operation count was: 851. And the insert operation count was: 249500
+The global active number is 0.286 and the voltage is 244.030.
+The operation count was 250353. The find Operation count was: 853. And the insert operation count was: 249500
+The global active number is 1.952 and the voltage is 242.070.
+The operation count was 250355. The find Operation count was: 855. And the insert operation count was: 249500
+The global active number is 2.376 and the voltage is 241.860.
+The operation count was 250357. The find Operation count was: 857. And the insert operation count was: 249500
+The global active number is 2.374 and the voltage is 241.700.
+The operation count was 250359. The find Operation count was: 859. And the insert operation count was: 249500
+The global active number is 2.406 and the voltage is 240.000.
+The operation count was 250361. The find Operation count was: 861. And the insert operation count was: 249500
+The global active number is 1.004 and the voltage is 242.000.
+The operation count was 250363. The find Operation count was: 863. And the insert operation count was: 249500
+The global active number is 0.388 and the voltage is 242.580.
+The operation count was 250365. The find Operation count was: 865. And the insert operation count was: 249500
+The global active number is 1.458 and the voltage is 242.300.
+The operation count was 250367. The find Operation count was: 867. And the insert operation count was: 249500
+The global active number is 2.480 and the voltage is 241.860.
+The operation count was 250369. The find Operation count was: 869. And the insert operation count was: 249500
+The global active number is 2.454 and the voltage is 240.760.
+The operation count was 250371. The find Operation count was: 871. And the insert operation count was: 249500
+The global active number is 2.468 and the voltage is 241.520.
+The operation count was 250373. The find Operation count was: 873. And the insert operation count was: 249500
+The global active number is 2.028 and the voltage is 241.880.
+The operation count was 250375. The find Operation count was: 875. And the insert operation count was: 249500
+The global active number is 0.382 and the voltage is 243.650.
+The operation count was 250377. The find Operation count was: 877. And the insert operation count was: 249500
+The global active number is 0.902 and the voltage is 242.620.
+The operation count was 250379. The find Operation count was: 879. And the insert operation count was: 249500
+The global active number is 2.466 and the voltage is 241.430.
+The operation count was 250381. The find Operation count was: 881. And the insert operation count was: 249500
+The global active number is 2.456 and the voltage is 241.180.
+The operation count was 250383. The find Operation count was: 883. And the insert operation count was: 249500
+The global active number is 2.450 and the voltage is 240.820.
+The operation count was 250385. The find Operation count was: 885. And the insert operation count was: 249500
+The global active number is 2.448 and the voltage is 240.780.
+The operation count was 250387. The find Operation count was: 887. And the insert operation count was: 249500
+The global active number is 0.930 and the voltage is 242.940.
+The operation count was 250389. The find Operation count was: 889. And the insert operation count was: 249500
+The global active number is 0.286 and the voltage is 243.840.
+The operation count was 250391. The find Operation count was: 891. And the insert operation count was: 249500
+The global active number is 1.376 and the voltage is 243.110.
+The operation count was 250393. The find Operation count was: 893. And the insert operation count was: 249500
+The global active number is 2.456 and the voltage is 241.980.
+The operation count was 250395. The find Operation count was: 895. And the insert operation count was: 249500
+The global active number is 2.456 and the voltage is 242.010.
+The operation count was 250397. The find Operation count was: 897. And the insert operation count was: 249500
+The global active number is 2.444 and the voltage is 241.380.
+The operation count was 250399. The find Operation count was: 899. And the insert operation count was: 249500
+The global active number is 2.122 and the voltage is 240.910.
+The operation count was 250401. The find Operation count was: 901. And the insert operation count was: 249500
+The global active number is 0.356 and the voltage is 242.130.
+The operation count was 250403. The find Operation count was: 903. And the insert operation count was: 249500
+The global active number is 0.952 and the voltage is 241.500.
+The operation count was 250405. The find Operation count was: 905. And the insert operation count was: 249500
+The global active number is 2.426 and the voltage is 240.450.
+The operation count was 250407. The find Operation count was: 907. And the insert operation count was: 249500
+The global active number is 2.420 and the voltage is 240.350.
+The operation count was 250409. The find Operation count was: 909. And the insert operation count was: 249500
+The global active number is 2.412 and the voltage is 240.650.
+The operation count was 250411. The find Operation count was: 911. And the insert operation count was: 249500
+The global active number is 1.008 and the voltage is 242.350.
+The operation count was 250413. The find Operation count was: 913. And the insert operation count was: 249500
+The global active number is 0.430 and the voltage is 243.400.
+The operation count was 250415. The find Operation count was: 915. And the insert operation count was: 249500
+The global active number is 2.676 and the voltage is 240.690.
+The operation count was 250417. The find Operation count was: 917. And the insert operation count was: 249500
+The global active number is 3.766 and the voltage is 239.130.
+The operation count was 250419. The find Operation count was: 919. And the insert operation count was: 249500
+The global active number is 4.582 and the voltage is 238.080.
+The operation count was 250421. The find Operation count was: 921. And the insert operation count was: 249500
+The global active number is 5.282 and the voltage is 237.380.
+The operation count was 250423. The find Operation count was: 923. And the insert operation count was: 249500
+The global active number is 2.362 and the voltage is 241.350.
+The operation count was 250425. The find Operation count was: 925. And the insert operation count was: 249500
+The global active number is 3.250 and the voltage is 240.950.
+The operation count was 250427. The find Operation count was: 927. And the insert operation count was: 249500
+The global active number is 4.618 and the voltage is 239.610.
+The operation count was 250429. The find Operation count was: 929. And the insert operation count was: 249500
+The global active number is 5.242 and the voltage is 239.490.
+The operation count was 250431. The find Operation count was: 931. And the insert operation count was: 249500
+The global active number is 4.860 and the voltage is 239.650.
+The operation count was 250433. The find Operation count was: 933. And the insert operation count was: 249500
+The global active number is 3.738 and the voltage is 240.390.
+The operation count was 250435. The find Operation count was: 935. And the insert operation count was: 249500
+The global active number is 3.426 and the voltage is 240.310.
+The operation count was 250437. The find Operation count was: 937. And the insert operation count was: 249500
+The global active number is 5.254 and the voltage is 238.150.
+The operation count was 250439. The find Operation count was: 939. And the insert operation count was: 249500
+The global active number is 5.246 and the voltage is 237.910.
+The operation count was 250441. The find Operation count was: 941. And the insert operation count was: 249500
+The global active number is 5.216 and the voltage is 237.440.
+The operation count was 250443. The find Operation count was: 943. And the insert operation count was: 249500
+The global active number is 3.858 and the voltage is 238.520.
+The operation count was 250445. The find Operation count was: 945. And the insert operation count was: 249500
+The global active number is 2.822 and the voltage is 239.550.
+The operation count was 250447. The find Operation count was: 947. And the insert operation count was: 249500
+The global active number is 3.840 and the voltage is 238.270.
+The operation count was 250449. The find Operation count was: 949. And the insert operation count was: 249500
+The global active number is 4.636 and the voltage is 237.370.
+The operation count was 250451. The find Operation count was: 951. And the insert operation count was: 249500
+The global active number is 4.634 and the voltage is 237.170.
+The operation count was 250453. The find Operation count was: 953. And the insert operation count was: 249500
+The global active number is 4.652 and the voltage is 237.920.
+The operation count was 250455. The find Operation count was: 955. And the insert operation count was: 249500
+The global active number is 3.130 and the voltage is 239.820.
+The operation count was 250457. The find Operation count was: 957. And the insert operation count was: 249500
+The global active number is 1.756 and the voltage is 241.180.
+The operation count was 250459. The find Operation count was: 959. And the insert operation count was: 249500
+The global active number is 3.478 and the voltage is 239.840.
+The operation count was 250461. The find Operation count was: 961. And the insert operation count was: 249500
+The global active number is 4.500 and the voltage is 239.040.
+The operation count was 250463. The find Operation count was: 963. And the insert operation count was: 249500
+The global active number is 3.552 and the voltage is 240.290.
+The operation count was 250465. The find Operation count was: 965. And the insert operation count was: 249500
+The global active number is 3.940 and the voltage is 239.190.
+The operation count was 250467. The find Operation count was: 967. And the insert operation count was: 249500
+The global active number is 2.440 and the voltage is 240.800.
+The operation count was 250469. The find Operation count was: 969. And the insert operation count was: 249500
+The global active number is 2.080 and the voltage is 241.610.
+The operation count was 250471. The find Operation count was: 971. And the insert operation count was: 249500
+The global active number is 3.652 and the voltage is 240.110.
+The operation count was 250473. The find Operation count was: 973. And the insert operation count was: 249500
+The global active number is 4.432 and the voltage is 239.350.
+The operation count was 250475. The find Operation count was: 975. And the insert operation count was: 249500
+The global active number is 4.460 and the voltage is 240.080.
+The operation count was 250477. The find Operation count was: 977. And the insert operation count was: 249500
+The global active number is 2.186 and the voltage is 242.070.
+The operation count was 250479. The find Operation count was: 979. And the insert operation count was: 249500
+The global active number is 2.358 and the voltage is 241.540.
+The operation count was 250481. The find Operation count was: 981. And the insert operation count was: 249500
+The global active number is 3.954 and the voltage is 239.840.
+The operation count was 250483. The find Operation count was: 983. And the insert operation count was: 249500
+The global active number is 3.746 and the voltage is 240.360.
+The operation count was 250485. The find Operation count was: 985. And the insert operation count was: 249500
+The global active number is 3.944 and the voltage is 239.790.
+The operation count was 250487. The find Operation count was: 987. And the insert operation count was: 249500
+The global active number is 3.680 and the voltage is 239.550.
+The operation count was 250489. The find Operation count was: 989. And the insert operation count was: 249500
+The global active number is 1.670 and the voltage is 242.210.
+The operation count was 250491. The find Operation count was: 991. And the insert operation count was: 249500
+The global active number is 3.214 and the voltage is 241.920.
+The operation count was 250493. The find Operation count was: 993. And the insert operation count was: 249500
+The global active number is 4.500 and the voltage is 240.420.
+The operation count was 250495. The find Operation count was: 995. And the insert operation count was: 249500
+The global active number is 3.800 and the voltage is 241.780.
+The operation count was 250497. The find Operation count was: 997. And the insert operation count was: 249500
+The global active number is 2.664 and the voltage is 243.310.
+The operation count was 250499. The find Operation count was: 999. And the insert operation count was: 249500

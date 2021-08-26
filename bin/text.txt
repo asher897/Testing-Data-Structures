@@ -1,0 +1,2 @@
+The global active number is 3.388 and the voltage is 233.220.
+The operation count was 8268. The find Operation count was 1 and the insert operation count was 8267

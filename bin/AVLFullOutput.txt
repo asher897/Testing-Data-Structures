@@ -1,0 +1,42 @@
+Output of printAllDateTimes with PowerAVLApp
+First 10 Lines: 
+16/12/2006/17:24:00
+The global active number is 4.216 and the voltage is 234.840.
+16/12/2006/17:26:00
+The global active number is 5.374 and the voltage is 233.290.
+16/12/2006/17:25:00
+The global active number is 5.360 and the voltage is 233.630.
+16/12/2006/17:28:00
+The global active number is 3.666 and the voltage is 235.680.
+16/12/2006/17:30:00
+The global active number is 3.702 and the voltage is 235.090.
+Last 10 Lines: 
+17/12/2006/01:18:00
+The global active number is 3.840 and the voltage is 238.270.
+17/12/2006/01:04:00
+The global active number is 4.582 and the voltage is 238.080.
+17/12/2006/00:29:00
+The global active number is 0.612 and the voltage is 243.680.
+16/12/2006/23:20:00
+The global active number is 1.222 and the voltage is 241.580.
+16/12/2006/21:13:00
+The global active number is 1.766 and the voltage is 237.700.
+
+Test with 3 random date/time strings: 
+1. 16/12/2006/18:12:00
+The global active number is 3.730 and the voltage is 235.780.
+The operation count was 8174. The find Operation count was: 13. And the insert operation count was: 8161
+
+2. 16/12/2006/20:47:00
+The global active number is 3.426 and the voltage is 234.590.
+The operation count was 8178. The find Operation count was: 17. And the insert operation count was: 8161
+
+3. 17/12/2006/01:30:00
+The global active number is 3.652 and the voltage is 240.110.
+The operation count was 8176. The find Operation count was: 15. And the insert operation count was: 8161
+
+Test With Incorrect Date/Time String
+18/12/2006/01:30:00
+Date/Time not found
+The operation count was 8179. The find Operation count was 18 and the insert operation count was 8161
+The operation count was 8179. The find Operation count was: 18. And the insert operation count was: 8161

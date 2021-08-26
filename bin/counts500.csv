@@ -1,0 +1,2 @@
+N,AVLFindBest,AVLFindWorst,AVLFindAverage,BSTFindBest,BSTFindWorst,BSTFindAverage,AVLInsertBest,AVLInsertWorst,AVLInsertAverage,BSTInsertBest,BSTInsertWorst,BSTInsertAverage
+500,1,17,14,1,999,500,8477,8477,8477,249500,249500,249500
